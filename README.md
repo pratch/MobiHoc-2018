@@ -1,4 +1,4 @@
-# MobiHoc 2018 Web Site
+# SICE 2020 Web Site
 
 This repository contains code and data for the MobiHoc 2018 web site.
 
