@@ -29,12 +29,3 @@ The repository is organized as follows:
 * `_assets/`    CSS, javascript, and image assets
 * `*.md`, `*.html` Individual pages in markdown or HTML format.
 
-## Getting started as MobiHoc web chair
-
-You'll have to request an account at:
-
-http://campus.acm.org/public/infodir/account_request.cfm
-
-For questions or to check on status of your request, you may try following up with ishelpdesk@hq.acm.org.
-
-You should receive further instructions from ACM on how to upload content to the server when your account is setup.
