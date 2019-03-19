@@ -11,11 +11,11 @@ plugins:
   - jekyll-last-modified-at
   - jekyll-sitemap
 
-title: "MobiHoc 2018"
-description: "MobiHoc 2018, the Nineteenth International Symposium on Mobile Ad Hoc Networking and Computing, will focus on the latest research in the rapidly growing area of mobile ad hoc networking and computing. This symposium will be held in Los Angeles, USA in June 26-29 2018."
+title: "SICE 2020"
+description: "SICE 2020, the Nineteenth International Symposium on Mobile Ad Hoc Networking and Computing, will focus on the latest research in the rapidly growing area of mobile ad hoc networking and computing. This symposium will be held in Los Angeles, USA in June 26-29 2018."
 logo_alt: "MobiHoc 2018 *** June 26-29, 2018 *** UCLA"
 
-baseurl: "/mobihoc/2018"
+baseurl: "/sice/2020"
 url: "https://www.sigmobile.org"
 
 google:

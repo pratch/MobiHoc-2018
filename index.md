@@ -4,15 +4,10 @@ title: Welcome
 group: Welcome
 ---
 
-# Welcome to MobiHoc 2018
+# Welcome to SICE 2020
 
-MobiHoc 2018, the Nineteenth International Symposium on Mobile Ad Hoc Networking and Computing will be held in Los Angeles, USA in June 2018.
-MobiHoc is a premier international symposium dedicated to addressing challenges in dynamic networks and computing.
+The SICE Annual Conference 2020 (SICE 2020), organized by the Society of Instrument and Control Engineers (SICE) and the Electrical Engineering/ Electronics, Computer, Telecommunications and Information Technology (ECTI) Association, will be held on September 15-18, 2020, in Chiang Mai, THAILAND. The SICE Annual Conference 2020 is an international conference covering a broad range of fields from measurement and control to system analysis and design, from theory to application, and from software to hardware. The technical program of SICE 2020 will consist of plenary and invited talks, tutorial courses, and workshops, as well as oral and interactive sessions. 
 
-It will bring together researchers and practitioners from a broad spectrum of networking research to present the most up-to-date results and achievements in the field.
-
-MobiHoc 2018 will feature a highly selective technical program, multiple distinguished keynote addresses, and an exciting panel.
-In addition, it includes workshops that are focused on areas of emerging interest.
 
 ## Conference Program
 

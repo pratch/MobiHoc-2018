@@ -5,7 +5,7 @@ group: Conference
 
 ---
 
-# ACM MobiHoc 2018 Conference Program
+# SICE 2020 Conference Program
 
 {% comment %}
 Kindly note that the schedule below is tentative and subject to updates.

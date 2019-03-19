@@ -115,6 +115,6 @@
     - name: N2Women Fellowships
       # icon: fa-bullhorn
       url: /n2women-fellowships.html
-- name: Anti-Harassment Policy
-  url: /policy-anti-harassment.html
-  icon: fa-book
+#- name: Anti-Harassment Policy
+#  url: /policy-anti-harassment.html
+#  icon: fa-book

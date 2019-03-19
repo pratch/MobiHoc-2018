@@ -55,7 +55,7 @@ module Jekyll
                     out.write(resp.body)
                   end
                   system("pdfcrop #{file}.pdf #{file}.pdf")
-                  system("convert -density 200 #{file}.pdf #{file}.png")
+                  system("convert -trim -density 200 #{file}.pdf #{file}.png")
 
                   width = %x[pdfinfo "#{file}.pdf" | grep "Page size" | awk '{print $3}'].to_i
                   height = %x[pdfinfo "#{file}.pdf" | grep "Page size" | awk '{print $5}'].to_i

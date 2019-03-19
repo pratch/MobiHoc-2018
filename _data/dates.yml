@@ -9,93 +9,93 @@
 main-registration:
   track: main
   info: Paper Registration Deadline (11:59pm PST)
-  date: <del>December 15, 2017</del>
+  date: <del>December 15, 2020</del>
   important: true
 main-submission:
   track: main
   info: Paper Submission Deadline (11:59pm PST)
-  date: <del>December 22, 2017 <b>(firm, no extension)</b></del>
+  date: <del>December 22, 2020 <b>(firm, no extension)</b></del>
   important: true
 
 cfw-1:
   track: cfw
   info: Workshop Proposals due
-  date: January 24, 2018
+  date: January 24, 2020
   important: true
 
 posters-1:
   track: posters
-  date: March 2, 2018
+  date: March 2, 2020
   info: Poster Submission Deadline
   important: true
 
 posters-2:
   track: posters
-  date: <del>April 6, 2018</del>
+  date: <del>April 6, 2020</del>
   info: Notification of Acceptance
 
 posters-2-ext:
   track: posters
-  date: April 11, 2018
+  date: April 11, 2020
   info: Delayed Notification of Acceptance
 
 posters-3:
   track: posters
-  date: June 26, 2018 - June 29, 2018
+  date: June 26, 2020 - June 29, 2020
   info: Conference
 
 demos-1:
   track: demos
-  date: March 2, 2018
+  date: March 2, 2020
   info: Demo Submission Deadline
   important: true
 
 demos-2:
   track: demos
-  date: April 6, 2018
+  date: April 6, 2020
   info: Notification of Acceptance
 
 demos-3:
   track: demos
-  date: June 26, 2018 - June 29, 2018
+  date: June 26, 2020 - June 29, 2020
   info: Conference
 
 
 main-notification:
   track: main
   info: Acceptance Notification
-  date: March 16, 2018
+  date: March 16, 2020
   important: true
 # main-due:
 #   track: main
 #   info: Camera Ready Due
-#   date: August 21, 2017
+#   date: August 21, 2020
 #   important: true
 
 cfw-2:
   track: cfw
   info: Notification of Workshop Proposal acceptance
-  date: January 31, 2018
+  date: January 31, 2020
 
 cfw-3:
   track: cfw
   info: Workshop paper submissions deadline (suggested)
-  date: April 15, 2018
+  date: April 15, 2020
 
 cfw-4:
   track: cfw
   info: Workshop Paper Decisions (hard deadline)
-  date: April 15, 2018
+  date: April 15, 2020
 
 # tutorials-proposals:
 #   track: tutorials
 #   info: Proposals deadline
-#   date: July 16, 2017
+#   date: July 16, 2020
 #   important: true
 # tutorials-notification:
 #   track: tutorials
 #   info: Notification of Acceptance
-#   date: July 24, 2017
+#   date: July 24, 2020
 
 # workshops-proposals:
 #   track: workshops
@@ -114,61 +114,61 @@ cfw-4:
 # posters-submission:
 #   track: posters
 #   info: Submissions deadline
-#   date: <del>July 9, 2017 12am EDT</del><br/> July 23, 2017 11:59pm EDT
+#   date: <del>July 9, 2020 12am EDT</del><br/> July 23, 2020 11:59pm EDT
 # posters-notification:
 #   track: posters
 #   info: Acceptance Notification
-#   date: <del>July 31, 2017</del><br/> August 10, 2017
+#   date: <del>July 31, 2020</del><br/> August 10, 2020
 # posters-due:
 #   track: posters
 #   info: Camera Ready Due
-#   date: August 21, 2017
+#   date: August 21, 2020
 
 # travel-submission:
 #   track: travel
 #   info: Travel Grant Application Submission Deadline
-#   date: August 16, 2017 (23:59 CET)
+#   date: August 16, 2020 (23:59 CET)
 # travel-notification:
 #   track: travel
 #   info: Travel Grant Award Notification
-#   date: August 23, 2017 (23:59 CET)
+#   date: August 23, 2020 (23:59 CET)
 # travel-due:
 #   track: travel
 #   info: Deadline to Accept/Decline Travel Grant Award
-#   date: August 30, 2017
+#   date: August 30, 2020
 
 conference:
   track: main
   info: Workshops
-  date: June 25, 2018
+  date: June 25, 2020
   important: true
 
 conference:
   track: main
   info: Conference
-  date: June 25, 2018 - June 29, 2018
+  date: June 25, 2020 - June 29, 2020
   important: true
 
 # ## Workshop planning dates
 # workshops-planning-submission:
 #   track: workshops-planning
-#   date:  Before March 25, 2017
+#   date:  Before March 25, 2020
 #   info:  Paper submissions deadline
 # workshops-planning-notification:
 #   track: workshops-planning
-#   date:  Before end of April, 2017
+#   date:  Before end of April, 2020
 #   info:  Paper acceptance notification
 # workshops-planning-due:
 #   track: workshops-planning
-#   date:  Before end of May, 2017
+#   date:  Before end of May, 2020
 #   info:  Camera ready due
 # workshops-planning-program:
 #   track: workshops-planning
-#   date:  Before mid-June, 2017
+#   date:  Before mid-June, 2020
 #   info:  Program available online
 # workshops-planning-org:
 #   track: workshops-planning
-#   date:  Before mid-June, 2017
+#   date:  Before mid-June, 2020
 #   info:  List of organization details
 
 # ## Industrial demos
