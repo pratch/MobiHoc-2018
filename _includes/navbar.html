@@ -16,7 +16,7 @@
                onclick="window.location = '{{ url }}'"
                {% endif %}
           >
-            <h4 class="panel-title">{{ item.name }}</h4>
+            <h4 class="panel-title">{% if item.icon %}<i class="fa {{ item.icon }}" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;{% endif %}{{ item.name }}</h4>
           </div>
           <div id="collapse{{ forloop.index }}" class="panel-collapse collapse {% if page.group == item.name %}in{% endif %}" role="tabpanel" aria-labelledby="heading{{ forloop.index }}">
             <div class="list-group">

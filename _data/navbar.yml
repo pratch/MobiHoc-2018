@@ -7,6 +7,31 @@
 # - name: "<b>>> Call for Workshops <<</b>"
 #   icon: fa-bullhorn
 #   url: /cfw.html
+
+- name: Author Information
+  icon: fa-bullhorn
+  submenu:
+    - name: Call for Papers
+      url: /cfp.html
+    - name: Submission Instructions
+      url: /submission.html
+    # - name: Camera-Ready Instructions
+    #   url: /camera-ready.html
+    
+    # - name: <del>Call for Workshops</del>
+    #   url: /cfw.html
+    # - name: <del>Call for Posters</del>
+    #   url: /cf-posters.html
+    # - name: <del>Call for Demos</del>
+    #   url: /cf-demos.html
+    # - name: Author Registration Policy
+    #   url: /policy-author-registration.html
+    # - name: No-Show Policy
+    #   url: /policy-no-show.html
+    # - name: Student Travel Grants
+    #   # icon: fa-bullhorn
+    #   url: /student-travel-grants.html
+
 - name: Committees
   icon: fa-users
   submenu:
@@ -37,8 +62,10 @@
 #     - name: Program (Thursday)
 #       url: /program-thu.html
 - name: Conference
-  icon: fa-bar-chart
+  icon: fa-book-open
   submenu:
+    - name: Registration 
+      url: /registration.html
     - name: Program
       url: /program.html
     # - name: Program Highlights
@@ -56,23 +83,12 @@
     #   url: /accepted-papers.html
     - name: Program Committee
       url: /tpc.html
-    - name: "<del>Register Now</del>"
-      url: /registration.html
+    
 - name: Workshops and Tutorials
   icon: fa-bullhorn
   submenu:
     - name: MobileHealth
       url: /workshop-mobile-health.html
-    - name: Frontiers of Networks
-      url: /workshop-frontiers.html
-    - name: SmartObjects
-      url: /workshop-smartobjects.html
-    # - name: DIPON
-    #   url: /workshop-dipon.html
-    - name: Mobile IoT Sensing, Security, and Privacy
-      url: /workshop-iot-sensing.html
-    - name: SmartCitySecurity
-      url: /workshop-smart-city-security.html
     - name: "Tutorial: Blockchain Tech & Apps"
       url: /tutorials.html
 - name: Local Information
@@ -82,39 +98,15 @@
     #   url: /cf-travel-grants.html
     - name: Venue
       url: /venue.html
-    - name: Helpful Maps
-      url: /maps.html
-    - name: Visa Information
-      url: /visa.html
-    - name: Accommodations
-      url: /accommodations.html
+    - name: Travel Information
+      url: /travel.html
+    #- name: Visa Information
+    #  url: /visa.html
+    #- name: Accommodations
+    #  url: /accommodations.html
     # - name: Room Share
     #   url: /room-share.html
-- name: Calls
-  icon: fa-bullhorn
-  submenu:
-    - name: Submission Instructions
-      url: /submission.html
-    - name: Camera-Ready Instructions
-      url: /camera-ready.html
-    - name: <del>Call for Papers</del>
-      url: /cfp.html
-    - name: <del>Call for Workshops</del>
-      url: /cfw.html
-    - name: <del>Call for Posters</del>
-      url: /cf-posters.html
-    - name: <del>Call for Demos</del>
-      url: /cf-demos.html
-    - name: Author Registration Policy
-      url: /policy-author-registration.html
-    - name: No-Show Policy
-      url: /policy-no-show.html
-    - name: Student Travel Grants
-      # icon: fa-bullhorn
-      url: /student-travel-grants.html
-    - name: N2Women Fellowships
-      # icon: fa-bullhorn
-      url: /n2women-fellowships.html
+
 #- name: Anti-Harassment Policy
 #  url: /policy-anti-harassment.html
 #  icon: fa-book

@@ -6,86 +6,129 @@
 
 # All listed dates will appear in the specified order
 
-main-registration:
+main-submissionopen:
   track: main
-  info: Paper Registration Deadline (11:59pm PST)
-  date: <del>December 15, 2020</del>
+  info: Paper Submission Page Open
+  date: December 1, 2019
   important: true
+
+main-workshoppropose:
+  track: main
+  info: Proposal of Workshop and Tutorials
+  date: February 14, 2020
+  important: true
+
+main-sessionpropose:
+  track: main
+  info: Proposal of Organized Sessions
+  date: February 28, 2020
+  important: true
+
 main-submission:
   track: main
   info: Paper Submission Deadline (11:59pm PST)
-  date: <del>December 22, 2020 <b>(firm, no extension)</b></del>
+  date: March 16, 2020 <!--<b>(firm, no extension)</b>-->
   important: true
-
-cfw-1:
-  track: cfw
-  info: Workshop Proposals due
-  date: January 24, 2020
-  important: true
-
-posters-1:
-  track: posters
-  date: March 2, 2020
-  info: Poster Submission Deadline
-  important: true
-
-posters-2:
-  track: posters
-  date: <del>April 6, 2020</del>
-  info: Notification of Acceptance
-
-posters-2-ext:
-  track: posters
-  date: April 11, 2020
-  info: Delayed Notification of Acceptance
-
-posters-3:
-  track: posters
-  date: June 26, 2020 - June 29, 2020
-  info: Conference
-
-demos-1:
-  track: demos
-  date: March 2, 2020
-  info: Demo Submission Deadline
-  important: true
-
-demos-2:
-  track: demos
-  date: April 6, 2020
-  info: Notification of Acceptance
-
-demos-3:
-  track: demos
-  date: June 26, 2020 - June 29, 2020
-  info: Conference
-
 
 main-notification:
   track: main
   info: Acceptance Notification
-  date: March 16, 2020
+  date: June 1, 2020
   important: true
+
+main-due:
+  track: main
+  info: Camera Ready Due
+  date: July 1, 2020
+  important: true
+
+main-earlyregistration:
+  track: main
+  info: Early Registration
+  date: July 1, 2020
+  important: true
+
+main-registration:
+  track: main
+  info: Registration Deadline (11:59pm PST)
+  date: August 1, 2020
+  important: true
+
+conference:
+  track: main
+  info: Conference Date
+  date: September 15, 2020 - September 18, 2020
+  important: true
+
+# cfw-1:
+#  track: cfw
+#  info: Workshop Proposals due
+#  date: January 24, 2020
+#  important: true
+
+# posters-1:
+#  track: posters
+#  date: March 2, 2020
+#  info: Poster Submission Deadline
+#  important: true
+
+# posters-2:
+#  track: posters
+#  date: <del>April 6, 2020</del>
+#  info: Notification of Acceptance
+
+# posters-2-ext:
+#  track: posters
+#  date: April 11, 2020
+#  info: Delayed Notification of Acceptance
+
+# posters-3:
+#  track: posters
+#  date: June 26, 2020 - June 29, 2020
+#  info: Conference
+
+# demos-1:
+#   track: demos
+#   date: March 2, 2020
+#   info: Demo Submission Deadline
+#   important: true
+
+# demos-2:
+#   track: demos
+#   date: April 6, 2020
+#   info: Notification of Acceptance
+
+# demos-3:
+#   track: demos
+#   date: June 26, 2020 - June 29, 2020
+#   info: Conference
+
 # main-due:
 #   track: main
 #   info: Camera Ready Due
 #   date: August 21, 2020
 #   important: true
 
-cfw-2:
-  track: cfw
-  info: Notification of Workshop Proposal acceptance
-  date: January 31, 2020
+# conference:
+#   track: main
+#   info: Workshops
+#   date: June 25, 2020
+#   important: true
 
-cfw-3:
-  track: cfw
-  info: Workshop paper submissions deadline (suggested)
-  date: April 15, 2020
+# cfw-2:
+#   track: cfw
+#   info: Notification of Workshop Proposal acceptance
+#   date: January 31, 2020
 
-cfw-4:
-  track: cfw
-  info: Workshop Paper Decisions (hard deadline)
-  date: April 15, 2020
+# cfw-3:
+#   track: cfw
+#   info: Workshop paper submissions deadline (suggested)
+#   date: April 15, 2020
+
+# cfw-4:
+#   track: cfw
+#   info: Workshop Paper Decisions (hard deadline)
+#   date: April 15, 2020
 
 # tutorials-proposals:
 #   track: tutorials
@@ -137,17 +180,6 @@ cfw-4:
 #   info: Deadline to Accept/Decline Travel Grant Award
 #   date: August 30, 2020
 
-conference:
-  track: main
-  info: Workshops
-  date: June 25, 2020
-  important: true
-
-conference:
-  track: main
-  info: Conference
-  date: June 25, 2020 - June 29, 2020
-  important: true
 
 # ## Workshop planning dates
 # workshops-planning-submission:

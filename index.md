@@ -8,13 +8,7 @@ group: Welcome
 
 The SICE Annual Conference 2020 (SICE 2020), organized by the Society of Instrument and Control Engineers (SICE) and the Electrical Engineering/ Electronics, Computer, Telecommunications and Information Technology (ECTI) Association, will be held on September 15-18, 2020, in Chiang Mai, THAILAND. The SICE Annual Conference 2020 is an international conference covering a broad range of fields from measurement and control to system analysis and design, from theory to application, and from software to hardware. The technical program of SICE 2020 will consist of plenary and invited talks, tutorial courses, and workshops, as well as oral and interactive sessions. 
 
-
-## Conference Program
-
-[{% asset program-at-glance-program-1Mcgwl3mN0KkAWr9DJOVy9Nx-4iF2kqqEOk5yXK00meo.png %}{: style="max-width: 100%" alt="ACM MobiHoc 2018 - Program-at-Glance"}](program.html)
-{: style="text-align: center;"}
-
-<br/>
+<br>
 
 {% include news.html %}
 
@@ -27,6 +21,12 @@ The SICE Annual Conference 2020 (SICE 2020), organized by the Society of Instrum
 
 
 {% include dates.html %}
+
+
+## Conference Program
+
+[{% asset program-at-glance-program-1Mcgwl3mN0KkAWr9DJOVy9Nx-4iF2kqqEOk5yXK00meo.png %}{: style="max-width: 100%" alt="ACM MobiHoc 2018 - Program-at-Glance"}](program.html)
+{: style="text-align: center;"}
 
 ## With Generous Support From
 
