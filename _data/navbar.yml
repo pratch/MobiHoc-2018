@@ -17,7 +17,6 @@
       url: /submission.html
     # - name: Camera-Ready Instructions
     #   url: /camera-ready.html
-    
     # - name: <del>Call for Workshops</del>
     #   url: /cfw.html
     # - name: <del>Call for Posters</del>
@@ -61,36 +60,39 @@
 #       url: /program-wed.html
 #     - name: Program (Thursday)
 #       url: /program-thu.html
-- name: Conference
-  icon: fa-book-open
-  submenu:
-    - name: Registration 
-      url: /registration.html
-    - name: Program
-      url: /program.html
-    # - name: Program Highlights
-    #   url: /keynotes.html
-#       # icon: fa-list-ul
-#     - name: Posters
-#       url: /program-posters.html
-#     - name: Demos
-#       url: /program-demos.html
-#     - name: Industrial Demos
-#       url: /program-industrial-demos.html
-    - name: Awards
-      url: /awards.html
-    # - name: Accepted Papers
-    #   url: /accepted-papers.html
-    - name: Program Committee
-      url: /tpc.html
-    
-- name: Workshops and Tutorials
-  icon: fa-bullhorn
-  submenu:
-    - name: MobileHealth
-      url: /workshop-mobile-health.html
-    - name: "Tutorial: Blockchain Tech & Apps"
-      url: /tutorials.html
+
+#=========== PROGRAM - LATER =================
+# - name: Conference
+#   icon: fa-book-open
+#   submenu:
+#     - name: Registration 
+#       url: /registration.html
+#     - name: Program
+#       url: /program.html
+#     # - name: Program Highlights
+#     #   url: /keynotes.html
+# #       # icon: fa-list-ul
+# #     - name: Posters
+# #       url: /program-posters.html
+# #     - name: Demos
+# #       url: /program-demos.html
+# #     - name: Industrial Demos
+# #       url: /program-industrial-demos.html
+#     - name: Awards
+#       url: /awards.html
+#     # - name: Accepted Papers
+#     #   url: /accepted-papers.html
+#     - name: Program Committee
+#       url: /tpc.html
+   
+# ============ WORKSHOP - LATER =======================
+# - name: Workshops and Tutorials
+#   icon: fa-bullhorn
+#   submenu:
+#     - name: MobileHealth
+#       url: /workshop-mobile-health.html
+#     - name: "Tutorial: Blockchain Tech & Apps"
+#       url: /tutorials.html
 - name: Local Information
   icon: fa-map
   submenu:
@@ -104,9 +106,5 @@
     #  url: /visa.html
     #- name: Accommodations
     #  url: /accommodations.html
-    # - name: Room Share
-    #   url: /room-share.html
+   
 
-#- name: Anti-Harassment Policy
-#  url: /policy-anti-harassment.html
-#  icon: fa-book

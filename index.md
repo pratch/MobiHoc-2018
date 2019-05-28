@@ -6,7 +6,7 @@ group: Welcome
 
 # Welcome to SICE 2020
 
-The SICE Annual Conference 2020 (SICE 2020), organized by the Society of Instrument and Control Engineers (SICE) and the Electrical Engineering/ Electronics, Computer, Telecommunications and Information Technology (ECTI) Association, will be held on September 15-18, 2020, in Chiang Mai, THAILAND. The SICE Annual Conference 2020 is an international conference covering a broad range of fields from measurement and control to system analysis and design, from theory to application, and from software to hardware. The technical program of SICE 2020 will consist of plenary and invited talks, tutorial courses, and workshops, as well as oral and interactive sessions. 
+The SICE Annual Conference 2020 (SICE 2020), organized by the Society of Instrument and Control Engineers (SICE) and the Electrical Engineering/ Electronics, Computer, Telecommunications and Information Technology (ECTI) Association, will be held on September 22-25, 2020, in Chiang Mai, THAILAND. The SICE Annual Conference 2020 is an international conference covering a broad range of fields from measurement and control to system analysis and design, from theory to application, and from software to hardware. The technical program of SICE 2020 will consist of plenary and invited talks, tutorial courses, and workshops, as well as oral and interactive sessions. 
 
 <br>
 
@@ -23,40 +23,73 @@ The SICE Annual Conference 2020 (SICE 2020), organized by the Society of Instrum
 {% include dates.html %}
 
 
-## Conference Program
+## Tentative Conference Program
 
-[{% asset program-at-glance-program-1Mcgwl3mN0KkAWr9DJOVy9Nx-4iF2kqqEOk5yXK00meo.png %}{: style="max-width: 100%" alt="ACM MobiHoc 2018 - Program-at-Glance"}](program.html)
+[{% asset program-at-glance-program-1Ds4O1SerZeYmdIaWYn_w4qfmpqXpgPlywUvGo9kxqv8.png %}{: style="max-width: 100%" alt="ACM MobiHoc 2018 - Program-at-Glance"}](program.html)
 {: style="text-align: center;"}
 
-## With Generous Support From
+## Technical Co-Sponsors  
 
 <div class="sponsors">
   <div class="sponsor">
-      <a href="https://www.acm.org">{% asset logos/acm.png %}</a>
+      <a href="">{% asset logos/IEEE-CSS-logo.jpg %}</a>
   </div>
   <div class="sponsor">
-      <a href="https://www.sigmobile.org">{% asset logos/sigmobile.gif %}</a>
-  </div>
-<!--
-  <div class="sponsor">
-    <a href="http://www.nsf.gov"><img src="images/logos/nsf.gif" /></a>
+      <a href="">{% asset logos/IEEE_RAS_logo.png %}</a>
   </div>
   <div class="sponsor">
-      <a href="https://sfb901.uni-paderborn.de"><img src="images/logos/sfb.png" /></a>
+      <a href="">{% asset logos/ies_logo.gif %}</a>
   </div>
   <div class="sponsor">
-      <a href="http://www.dfg.de"><img style="max-height: 60px;" src="images/logos/dfg.png" /></a>
+      <a href="">{% asset logos/ICROS_logo.gif %}</a>
   </div>
   <div class="sponsor">
-      <a href="http://www.hni.uni-paderborn.de"><img style="height: 40px;" src="images/logos/hni.png" /></a>
+      <a href="">{% asset logos/ISA-logo.png %}</a>
   </div>
   <div class="sponsor">
-      <a href="http://www.uni-paderborn.de"><img src="images/logos/upb.png" /></a>
+      <a href="">{% asset logos/TCCT-logo.jpg %}</a>
   </div>
   <div class="sponsor">
-      <a href="http://www.ccs-labs.org"><img src="images/logos/ccs.png" /></a>
+      <a href="">{% asset logos/jemima-logo.png %}</a>
   </div>
--->
+  <div class="sponsor">
+      <a href="">{% asset logos/ieee-transparent-831x1024 %}</a>
+  </div>
+  <div class="sponsor">
+      <a href="">{% asset logos/logo_ifac.png %}</a>
+  </div>
+</div>
+
+## In Association With  
+
+<div class="sponsors">
+  <div class="sponsor">
+      <a href="">{% asset logos/KMUTT.png %}</a>
+  </div>
+  <div class="sponsor">
+      <a href="">{% asset logos/rmutl.png %}</a>
+  </div>
+  <div class="sponsor">
+      <a href="">{% asset logos/Gunma-University.png %}</a>
+  </div>
+  <div class="sponsor">
+      <a href="">{% asset logos/TNI.png %}</a>
+  </div>
+  <div class="sponsor">
+      <a href="">{% asset logos/CIS_logo2.jpg %}</a>
+  </div>
+  <div class="sponsor">
+      <a href="">{% asset logos/CAA-logo.png %}</a>
+  </div>
+  <div class="sponsor">
+      <a href="">{% asset logos/TRS.png %}</a>
+  </div>
+  <div class="sponsor">
+      <a href="">{% asset logos/AiAT.jpg %}</a>
+  </div>
+  <div class="sponsor">
+      <a href="">{% asset "logos/ACA logo.png" %}</a>
+  </div>
 </div>
 
 {% include photoswipe.html %}

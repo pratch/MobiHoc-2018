@@ -12,11 +12,11 @@ plugins:
   - jekyll-sitemap
 
 title: "SICE 2020"
-description: "SICE 2020, the Nineteenth International Symposium on Mobile Ad Hoc Networking and Computing, will focus on the latest research in the rapidly growing area of mobile ad hoc networking and computing. This symposium will be held in Los Angeles, USA in June 26-29 2018."
-logo_alt: "MobiHoc 2018 *** June 26-29, 2018 *** UCLA"
+description: "The SICE Annual Conference 2020 is an international conference covering a broad range of fields from measurement and control to system analysis and design, from theory to application, and from software to hardware. The conference will be held in Chiang Mai, Thailand in September 22-25 2020."
+logo_alt: "SICE 2020 *** September 22-25, 2020 *** Chiang Mai, Thailand"
 
-baseurl: "/sice/2020"
-url: "https://www.sigmobile.org"
+baseurl: "/sice2020"
+url: "https://www.rmutl.ac.th"
 
 google:
   - analytics: UA-83529610-3
@@ -37,7 +37,8 @@ program-at-glance:
   google_client_id: .travis.d/google_client_id.json
   # Google spreadsheet with the conference data
   spreadsheet:
-    - "1Mcgwl3mN0KkAWr9DJOVy9Nx-4iF2kqqEOk5yXK00meo"
+    #- "1Mcgwl3mN0KkAWr9DJOVy9Nx-4iF2kqqEOk5yXK00meo"
+    - "1Ds4O1SerZeYmdIaWYn_w4qfmpqXpgPlywUvGo9kxqv8"
 
 assets:
   caching:

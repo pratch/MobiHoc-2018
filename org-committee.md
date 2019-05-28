@@ -13,11 +13,11 @@ committees:
 
   - role:  Advisory Committee Chair
     people: 
-      - name:  SICE President - ? 
-        affiliation:  Japan
+      - name:  SICE President - Tetsuo Sawaragi 
+        affiliation:  Kyoto U., Japan
       - name:  ECTI President - Sinchai Kamolphiwong
         affiliation:  PSU, Thailand
-      - name:  RMUTL President - ? 
+      - name:  RMUTL President - Seensiri Sangajit 
         affiliation:  RMUTL, Thailand
   - role:  General Chairs
     people: 
