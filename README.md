@@ -1,22 +1,10 @@
 # SICE 2020 Web Site
 
-This repository contains code and data for the SICE 2020 web site.
+This repository contains code and data for the SICE 2020 website, a fork of [MobiHoc 2008](https://github.com/conference-websites/MobiHoc-2018). The website uses Jekyll engine to generate pages using the templates. The site will go online in June 2019.
 
 ## License
 
-Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License (see [LICENSE.md](LICENSE.md) for details).
-
-#### Generating site using jekyll
-
-The website uses jekyll engine to generate the website using the templates.  To get started with jekyll:
-
-    gem install jekyll bundler
-    bundle install
-    bundle exec jekyll build
-
-To generate the website and serve it from a local webserver, e.g., for debugging
-
-    bundle exec jekyll serve
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License
 
 ## Overview
 
