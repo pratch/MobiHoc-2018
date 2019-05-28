@@ -9,7 +9,7 @@ group: Calls
 
 
 <p markdown="1" style="text-align:center;">
-[{% asset cfp.jpg srcset:width="250 1x" style="max-width: 100%;" alt="Tutorial slides" %}]({% asset cfp.pdf @path %})
+[{% asset cfp.jpg srcset:width="250 1x" style="max-width: 100%;" alt="Call for Paper" %}]({% asset cfp.pdf @path %})
 <br> [Download CFP]({% asset cfp.pdf @path %})
 </p>
 

@@ -44,7 +44,7 @@ committees:
       - name:  Tadashi Ito 
         affiliation:  Gunma U., Japan
       - name:  Pollakrit Toonkum 
-        affiliation:  RMUTL, Thailand)
+        affiliation:  RMUTL, Thailand
       - name:  Upady Hatthasin 
         affiliation:  RMUTL, Thailand
   - role:  Registration Co-Chairs
@@ -60,7 +60,7 @@ committees:
       - name:  Noriaki Ando 
         affiliation:  AIST, Japan
       - name:  Poonyasiri Boonpeng 
-        affiliation:  RMUTL, Thailand)
+        affiliation:  RMUTL, Thailand
       - name:  Prasert Luekhong 
         affiliation:  RMUTL,Thailand
   - role:  Exhibition and Industrial Relations Co-Chairs
@@ -70,7 +70,7 @@ committees:
       - name:  Koichi Mizutani 
         affiliation:  TNI, Thailand
       - name:  Nopadon Maneetien 
-        affiliation:  RMUTL, Thailand)
+        affiliation:  RMUTL, Thailand
       - name:  Nuttarut Panananda 
         affiliation:  RMUTL, Thailand
       - name:  Yingrak Auttawaitkul 
@@ -84,14 +84,14 @@ committees:
   - role:  Local Arrangements Co-Chairs 
     people: 
       - name:  Kitchar Chaitanu 
-        affiliation:  RMUTL, Thailand)
+        affiliation:  RMUTL, Thailand
       - name:  Surachet Kanprachar 
         affiliation:  Naresuan University, Thailand
       - name:  Nobuyuki Kurita 
         affiliation:  Gunma U., Japan
       - name:  Kazuhiro Motegi 
         affiliation:  Gunma U., Japan
-  - role:  Local Arrangements Vice chairs 
+  - role:  Local Arrangements Vice Chairs 
     people: 
       - name:  Krisda Yingkayun 
         affiliation:  RMUTL, Thailand
@@ -106,7 +106,7 @@ committees:
       - name:  Pratch Piyawongwisal 
         affiliation:  RMUTL, Thailand
       - name:  Pinit Nuangpirom 
-        affiliation:  RMUTL, Thailand)
+        affiliation:  RMUTL, Thailand
       - name:  Natchasit Chukiatkhajorn 
         affiliation:  RMUTL, Thailand
       - name:  Napasool Wongvanich 
@@ -129,6 +129,11 @@ committees:
         affiliation:  SICE, Japan
       - name:  Pikulkaew Tangtisanon 
         affiliation:  KMITL, Thailand
+  - role:  Web Chair
+    people: 
+      - name:  Pratch Piyawongwisal  
+        affiliation:  RMUTL, Thailand
+      
 
 ---
 

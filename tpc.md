@@ -21,7 +21,7 @@ committees:
       - name:  Nobuyuki Kurita 
         affiliation:  Gunma U., Japan
       - name:  Prasert Luekhong 
-        affiliation:  RMUTL, Thailand)
+        affiliation:  RMUTL, Thailand
       - name:  Chokemongkol Nadee 
         affiliation:  RMUTL, Thailand
   - role:  Organized Session Co-Chairs
