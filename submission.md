@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Submission Instructions
-group: Calls
+group: Author Information
 
 ---
 

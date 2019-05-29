@@ -1,4 +1,4 @@
-- name: Welcome
+- name: Home
   url: /
   icon: fa-home
 # - name: Supporters
