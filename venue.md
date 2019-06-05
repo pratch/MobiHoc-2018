@@ -23,7 +23,7 @@ Tel. : + (66-53) 253 199
 Tel. : + (66-53) 270 240  
 Fax. : + (66-53) 272 467  
 E-mail : emprsvn@empresshotels.com  
-Website: [www.empresshotels.com](www.empresshotels.com)  
+Website: [www.empresshotels.com](http://www.empresshotels.com)  
 
 <!--You can download UCLA [the offline campus map](http://maps.ucla.edu/downloads/pdf/UCLA_Campus_Colored_Map.pdf) or access [the interactive map](http://maps.ucla.edu/campus/).-->
 

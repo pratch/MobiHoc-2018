@@ -45,6 +45,7 @@ assets:
     path: .sass-cache/assets
   features:
     automatic_img_size: false
+  digest: false
 
   sources:
     - _assets/css

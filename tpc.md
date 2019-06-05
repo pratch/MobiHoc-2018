@@ -4,7 +4,7 @@ title: Program Committee
 group: Committees
 
 committees:
-  - role:  PC Chairs
+  - role:  PC Co-Chairs
     people: 
       - name:  Noboru Sakamoto 
         affiliation:  Nanzan U., Japan
@@ -24,14 +24,7 @@ committees:
         affiliation:  RMUTL, Thailand
       - name:  Chokemongkol Nadee 
         affiliation:  RMUTL, Thailand
-  - role:  Organized Session Co-Chairs
-    people: 
-      - name:  Yoshio Zama 
-        affiliation:  Gunma U., Japan
-      - name:  Masato Funatsu 
-        affiliation:  Gunma U., Japan
-      - name:  Masanori Takahashi 
-        affiliation:  Tokai U., Japan
+  
 
 ---
 

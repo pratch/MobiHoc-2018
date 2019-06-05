@@ -15,25 +15,26 @@ committees:
     people: 
       - name:  Tetsuo Sawaragi 
         affiliation:  SICE President (Kyoto U., Japan)
+      - name:  Shinji Hara
+        affiliation:  The U. of Tokyo, Japan
       - name:  Sinchai Kamolphiwong
         affiliation:  ECTI President (PSU, Thailand) 
       - name:  Seensiri Sangajit 
         affiliation:  RMUTL President (RMUTL, Thailand)
-      - name: Shinji Hara
-        affiliation:  U. of Tokyo, Japan
-  - role:  General Chairs
+      
+  - role:  General Co-Chairs
     people: 
       - name:  Kou Yamada 
         affiliation:  Gunma U., Japan
       - name:  Kosin Chamnongthai 
         affiliation:  KMUTT, Thailand
-  - role:  Program Chairs
+  - role:  Program Co-Chairs
     people: 
       - name:  Noboru Sakamoto 
         affiliation:  Nanzan U., Japan
       - name:  David Banjerdpongchai 
         affiliation:  Chulalongkorn U., Thailand
-  - role:  Organizing Committee Chairs
+  - role:  Organizing Committee Co-Chairs
     people: 
       - name:  Shinichi Maruyama 
         affiliation:  Gunma U., Japan
@@ -68,6 +69,8 @@ committees:
   - role:  Exhibition and Industrial Relations Co-Chairs
     people: 
       - name:  Takao Yamaguchi 
+        affiliation:  Gunma U., Japan
+      - name:  Nobuaki Nakazawa 
         affiliation:  Gunma U., Japan
       - name:  Koichi Mizutani 
         affiliation:  TNI, Thailand
@@ -113,11 +116,11 @@ committees:
         affiliation:  RMUTL, Thailand
       - name:  Napasool Wongvanich 
         affiliation:  KMITL, Thailand
-  - role:  SICE Week Chairs 
+  - role:  SICE Week Co-Chairs 
     people: 
       - name:  Napasool Wongvanich 
         affiliation:  KMITL, Thailand
-      - name:  Nobuyuki Kurita 
+      - name:  Nobuaki Nakazawa 
         affiliation:  Gunma U., Japan
   - role:  Secretariats
     people: 
@@ -131,10 +134,6 @@ committees:
         affiliation:  SICE, Japan
       - name:  Pikulkaew Tangtisanon 
         affiliation:  KMITL, Thailand
-  - role:  Web Chair
-    people: 
-      - name:  Pratch Piyawongwisal  
-        affiliation:  RMUTL, Thailand
       
 
 ---
