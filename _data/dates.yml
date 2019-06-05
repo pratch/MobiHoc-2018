@@ -48,11 +48,11 @@ main-earlyregistration:
   date: July 1, 2020
   important: true
 
-main-registration:
-  track: main
-  info: Registration Deadline (11:59pm PST)
-  date: August 1, 2020
-  important: true
+# main-registration:
+#   track: main
+#   info: Registration Deadline (11:59pm PST)
+#   date: August 1, 2020
+#   important: true
 
 conference:
   track: main

@@ -33,7 +33,8 @@ The specific areas of interest include, but are not limited to:
 - Networked Sensor System
 - System and Information
 
-**System Engineering**
+**Systems and Information**
+- System Engineering
 - Human-Machine Systems
 - Intelligent Systems
 - Autonomous Decentralized Systems
@@ -52,9 +53,10 @@ The specific areas of interest include, but are not limited to:
 - Adaptive and Optimal Control
 - Intelligent Control
 - Computer Aided Design
-- Modeling, System Identification and - Estimation
+- Modeling, System Identification and Estimation
 - Process Control
-- Mechanical Systems Control Guidance and - Flight Control
+- Mechanical Systems Control 
+- Guidance and Flight Control
 - Power Systems Control
 
 **Industrial Applications**

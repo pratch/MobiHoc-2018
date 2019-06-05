@@ -11,14 +11,16 @@ committees:
     #     homepage:    http://web.cs.ucla.edu/~gerla/
     #     email:       gerla@cs.ucla.edu
 
-  - role:  Advisory Committee Chair
+  - role:  Advisory Committee Chairs
     people: 
-      - name:  SICE President - Tetsuo Sawaragi 
-        affiliation:  Kyoto U., Japan
-      - name:  ECTI President - Sinchai Kamolphiwong
-        affiliation:  PSU, Thailand
-      - name:  RMUTL President - Seensiri Sangajit 
-        affiliation:  RMUTL, Thailand
+      - name:  Tetsuo Sawaragi 
+        affiliation:  SICE President (Kyoto U., Japan)
+      - name:  Sinchai Kamolphiwong
+        affiliation:  ECTI President (PSU, Thailand) 
+      - name:  Seensiri Sangajit 
+        affiliation:  RMUTL President (RMUTL, Thailand)
+      - name: Shinji Hara
+        affiliation:  U. of Tokyo, Japan
   - role:  General Chairs
     people: 
       - name:  Kou Yamada 
@@ -111,7 +113,7 @@ committees:
         affiliation:  RMUTL, Thailand
       - name:  Napasool Wongvanich 
         affiliation:  KMITL, Thailand
-  - role:  SICE Week Chair 
+  - role:  SICE Week Chairs 
     people: 
       - name:  Napasool Wongvanich 
         affiliation:  KMITL, Thailand
