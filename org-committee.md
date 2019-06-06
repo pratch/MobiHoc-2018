@@ -13,8 +13,8 @@ committees:
 
   - role:  Advisory Committee Chairs
     people: 
-      - name:  Tetsuo Sawaragi 
-        affiliation:  SICE President (Kyoto U., Japan)
+      - name:   
+        affiliation:  SICE President 
       - name:  Shinji Hara
         affiliation:  The U. of Tokyo, Japan
       - name:  Sinchai Kamolphiwong

@@ -4,8 +4,11 @@
   <ul>
     {% for person in committee.people %}
     <li>
+      {% if person.name %}
       <span class="name">{% if person.homepage %}<a href="{{ person.homepage }}">{% endif %}{{ person.name }}{% if person.homepage %}</a>{% endif %}</span>{% if person.affiliation %}, {{ person.affiliation }}{% endif %}
-      
+      {% else %}
+        {% if person.affiliation %}{{ person.affiliation }}{% endif %}
+      {% endif %}
     </li>
     {% endfor %}
   </ul>
