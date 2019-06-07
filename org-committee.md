@@ -13,10 +13,10 @@ committees:
 
   - role:  Advisory Committee Chairs
     people: 
-      - name:   
-        affiliation:  SICE President 
+      - name:  Tetsuo Sawaragi
+        affiliation:  SICE President (Kyoto U., Japan)
       - name:  Shinji Hara
-        affiliation:  The U. of Tokyo, Japan
+        affiliation:  Chuo U., Japan
       - name:  Sinchai Kamolphiwong
         affiliation:  ECTI President (PSU, Thailand) 
       - name:  Seensiri Sangajit 
