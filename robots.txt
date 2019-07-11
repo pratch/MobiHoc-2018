@@ -2,3 +2,5 @@
 
 User-agent: * 
 Disallow:
+
+Sitemap: http://www.sice.jp/siceac/sice2020/sitemap.xml

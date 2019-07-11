@@ -10,16 +10,20 @@ plugins:
   - jekyll-assets
   - jekyll-last-modified-at
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 title: "SICE 2020"
 description: "The SICE Annual Conference 2020 is an international conference covering a broad range of fields from measurement and control to system analysis and design, from theory to application, and from software to hardware. The conference will be held in Chiang Mai, Thailand in September 23-26 2020."
 logo_alt: "SICE 2020 *** September 23-26, 2020 *** Chiang Mai, Thailand"
 
-baseurl: "/sice2020"
-url: "https://www.rmutl.ac.th"
+#baseurl: ""
+baseurl: "/siceac/sice2020"
 
-google:
-  - analytics: UA-83529610-3
+#url: "https://sice2020.sice.jp"
+url: "https://sice.jp"
+
+#google:
+#  - analytics: UA-83529610-3
 
 ## Note. Uncomment and update spreadsheet parameters to enable pulling program
 ##       data from Google Sheet(s)
@@ -61,3 +65,10 @@ assets:
     browsers:
       - "last 2 versions"
       - "IE > 9"
+
+
+defaults:
+- scope:
+    path: 'googlebe3582a1f64b16b8.html'
+  values:
+    sitemap: false

@@ -91,7 +91,7 @@ committees:
       - name:  Kitchar Chaitanu 
         affiliation:  RMUTL, Thailand
       - name:  Surachet Kanprachar 
-        affiliation:  Naresuan University, Thailand
+        affiliation:  Naresuan U., Thailand
       - name:  Nobuyuki Kurita 
         affiliation:  Gunma U., Japan
       - name:  Kazuhiro Motegi 

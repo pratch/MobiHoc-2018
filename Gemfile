@@ -24,6 +24,7 @@ group :jekyll_plugins do
   gem 'google_drive', '~> 2.1', '>= 2.1.8'
   gem 'jekyll-last-modified-at', '~> 1.0', '>= 1.0.1'
   gem 'jekyll-sitemap', '~> 1.2'
+  gem 'jekyll-seo-tag', '~> 2.6.1'
 
   gem 'execjs', '~> 2.7'
   gem 'therubyracer', '~> 0.12.3'
