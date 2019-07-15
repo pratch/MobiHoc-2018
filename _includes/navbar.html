@@ -12,6 +12,8 @@
           <div class="panel-heading" role="tab" id="heading{{ forloop.index }}"
                {% if item.submenu %}
                 onclick="" 
+               {% elsif item.name == "Home" %}
+               onclick="window.location = 'index.html'"
                {% elsif item.name != page.title and item.name != page.group %}              
                onclick="window.location = '{{ url }}'"
                {% endif %}
