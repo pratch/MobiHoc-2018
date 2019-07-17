@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Welcome
-group: Welcome
+title: Home
+group: Home
 ---
 
 # Welcome to SICE 2020

@@ -102,6 +102,8 @@
       url: /venue.html
     - name: Travel Information
       url: /travel.html
+    - name: About Chiang Mai
+      url: /about-chiangmai.html
     #- name: Visa Information
     #  url: /visa.html
     #- name: Accommodations
