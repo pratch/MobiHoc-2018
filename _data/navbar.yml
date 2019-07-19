@@ -62,13 +62,13 @@
 #       url: /program-thu.html
 
 #=========== PROGRAM - LATER =================
-# - name: Conference
-#   icon: fa-book-open
-#   submenu:
+- name: Conference
+  icon: fa-book-open
+  submenu:
 #     - name: Registration 
 #       url: /registration.html
-#     - name: Program
-#       url: /program.html
+    - name: Tentative Program
+      url: /program-tentative.html
 #     # - name: Program Highlights
 #     #   url: /keynotes.html
 # #       # icon: fa-list-ul
@@ -102,10 +102,10 @@
       url: /venue.html
     - name: Travel Information
       url: /travel.html
+    - name: Visa Information
+      url: /visa.html
     - name: About Chiang Mai
       url: /about-chiangmai.html
-    #- name: Visa Information
-    #  url: /visa.html
     #- name: Accommodations
     #  url: /accommodations.html
    

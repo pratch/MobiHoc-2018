@@ -66,6 +66,12 @@ committees:
         affiliation:  RMUTL, Thailand
       - name:  Prasert Luekhong 
         affiliation:  RMUTL,Thailand
+  - role: Special Session Co-Chairs
+    people:
+      - name: Chaiyan Chanapromma 
+        affiliation: URU, Thailand
+      - name: Chanon Warisarn
+        affiliation: KMITL, Thailand
   - role:  Exhibition and Industrial Relations Co-Chairs
     people: 
       - name:  Takao Yamaguchi 

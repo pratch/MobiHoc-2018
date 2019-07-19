@@ -1,6 +1,6 @@
 # SICE 2020 Web Site
 
-This repository contains code and data for the SICE 2020 website, a fork of [MobiHoc 2008](https://github.com/conference-websites/MobiHoc-2018). The website uses Jekyll engine to generate pages using the templates. The site will go online in June 2019.
+This repository contains code and data for the SICE 2020 website, a fork of [MobiHoc 2008](https://github.com/conference-websites/MobiHoc-2018). The website uses Jekyll engine to generate pages using the templates. The site is now online at: [https://sice.jp/siceac/sice2020/](https://sice.jp/siceac/sice2020/).
 
 ## License
 
