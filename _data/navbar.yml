@@ -27,9 +27,8 @@
     #   url: /policy-author-registration.html
     # - name: No-Show Policy
     #   url: /policy-no-show.html
-    # - name: Student Travel Grants
-    #   # icon: fa-bullhorn
-    #   url: /student-travel-grants.html
+    - name: Student Travel Grants
+      url: /student-travel-grants.html
 
 - name: Committees
   icon: fa-users
