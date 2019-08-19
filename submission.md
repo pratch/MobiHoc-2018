@@ -10,10 +10,10 @@ group: Author Information
 The SICE Annual Conference 2020 accepts two types of submissions for review:
 
 ### Regular Paper
-Full papers (6 pages in conference format) must be submitted for review. The accepted papers will be included in the **IEEE Xplore Digital Library**. Normal length for the final manuscript of the regular paper is 6 pages. Paper exceeding 6 pages may be submitted upon payment of overlength page charges. A maximum of 2 extra pages above 6 pages are permitted. The paper must be submitted through [Submission System (TBD)](#) by the due date.
+Full papers (6 pages in conference format) must be submitted for review. The accepted papers will be submitted for inclusion into **IEEE Xplore Digital Library** as well as other Abstracting and Indexing (A&I) databases. Normal length for the final manuscript of the regular paper is 6 pages. Paper exceeding 6 pages may be submitted upon payment of overlength page charges. A maximum of 2 extra pages above 6 pages are permitted. The paper must be submitted through [Submission System (TBD)](#) by the due date.
 
 ### Position Paper
-Extended abstracts (2-4 pages in conference format) must be submitted for review. This category is provided for authors who want to present a timely review of research, a case study, and so on. This type of papers will **NOT be included** in the IEEE Xplore Digital Library. The paper must be submitted through [Submission System (TBD)](#) by the due date.
+Extended abstracts (2-4 pages in conference format) must be submitted for review. This category is provided for authors who want to present a timely review of research, a case study, and so on. This type of papers will **NOT be submitted for inclusion** into the IEEE Xplore Digital Library. The paper must be submitted through [Submission System (TBD)](#) by the due date.
 
 ### Download Templates
 - [SICE2020 Tex Template]({% asset SICE2020TexTemplate.zip @path %})
