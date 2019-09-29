@@ -68,8 +68,8 @@
 #       url: /registration.html
     - name: Tentative Program
       url: /program-tentative.html
-#     # - name: Program Highlights
-#     #   url: /keynotes.html
+    - name: Keynote Speakers
+      url: /keynote.html
 # #       # icon: fa-list-ul
 # #     - name: Posters
 # #       url: /program-posters.html
