@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Keynote Speakers
+title: Plenary Talks
 group: Conference
 
 ---
 
-# Keynote Speakers
+# Plenary Talks
 
 
 {% include program-online.html type="keynotes" %}

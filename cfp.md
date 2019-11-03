@@ -13,7 +13,7 @@ group: Author Information
 <br> [Download CFP]({% asset cfp.pdf @path %})
 </p>
 
-The SICE Annual Conference 2020 (SICE 2020), organized by the Society of Instrument and Control Engineers (SICE) and the Electrical Engineering/ Electronics, Computer, Telecommunications and Information Technology (ECTI) Association, will be held on September 23-26, 2020, in Chiang Mai, THAILAND. The SICE Annual Conference 2020 is an international conference covering a broad range of fields from control theory and applications, mechatronics, industrial automation, transportation and communication, biological and medical systems, artificial intelligence, cyber-physical systems, smart grids, educational and social contributions. git The technical program of SICE 2020 will consist of plenary and invited talks, tutorial courses, and workshops, as well as oral and interactive sessions.
+The SICE Annual Conference 2020 (SICE 2020), organized by the Society of Instrument and Control Engineers (SICE) and the Electrical Engineering/ Electronics, Computer, Telecommunications and Information Technology (ECTI) Association, will be held on September 23-26, 2020, in Chiang Mai, THAILAND. The SICE Annual Conference 2020 is an international conference covering a broad range of fields from control theory and applications, mechatronics, industrial automation, transportation and communication, biological and medical systems, artificial intelligence, cyber-physical systems, smart grids, educational and social contributions. The technical program of SICE 2020 will consist of plenary and invited talks, tutorial courses, and workshops, as well as oral and interactive sessions.
 
 The specific areas of interest include, but are not limited to:
 
@@ -82,6 +82,58 @@ The specific areas of interest include, but are not limited to:
 - Rescue Systems
 - Simulation of Large Systems
 - Network System Integration
+
+**Computer**
+- Hardware Design
+- Computer Architecture
+- Computer Vision
+- Internet of Things
+- Artificial Intelligence
+- High Performance Computing
+- Quantum Computing
+- Distributed Computing
+
+**Information Technology**
+- Data Mining
+- Big Data Analytics
+- Deep Learning
+- Fuzzy Systems
+- Natural Language Processing
+- Information Retrieval
+- Sentiment Analysis
+- Social Network Mining
+
+**Networking and Communications**
+- Wireless Communication
+- Wireless Sensor Networks
+- Network Security 
+- Software-Defined Networks
+- Multi Agent System
+- Energy Efficient Networking
+- Communication Theory
+- Antennas and Propagation
+- Optical Communications
+- Control in Communications
+
+**Electronics**
+- Analog Circuits
+- Filters and Data Conversion
+- Analog and Mixed Signal Processing
+- Embedded Computer System
+- Robotics
+- VLSI Design
+- Biomedical Electronics
+- Industrial Electronics and Automation
+- Semiconductor Materials
+
+**Digital Signal Processing**
+- Image and Video Processing
+- Audio and Speech Processing
+- Pattern Recognition
+- Biomedical Signal Processing
+- Computer Machine Vision
+- Adaptive Signal Processing
+- Machine Learning for Signal Processing
 
 **Life Engineering**
 - Integrative Biophysical Engineering and Informatics

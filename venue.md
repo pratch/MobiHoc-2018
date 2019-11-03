@@ -13,7 +13,7 @@ group: Local Information
 
 SICE 2020 will take place at **The Empress Hotel and Convention Center**, located at the heart of the city of **Chiang Mai, Thailand**. Chiang Mai is a Northern Thai city known for its rich history, Lanna culture, and numerous tourist attractions of great historical and religious significance. In walking distance to the hotel lie the iconic Night Bazaar Market and the Old City.
 
-If you are travelling abroad, please visit [Travel Information](travel.html) for more information.
+If you are travelling abroad, please visit [Travel Information](travel.html) for more information regarding travel options.
 
 ### Contact Information
 

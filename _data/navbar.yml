@@ -68,8 +68,8 @@
 #       url: /registration.html
     - name: Tentative Program
       url: /program-tentative.html
-    - name: Keynote Speakers
-      url: /keynote.html
+    - name: Plenary Talks
+      url: /plenary.html
 # #       # icon: fa-list-ul
 # #     - name: Posters
 # #       url: /program-posters.html
@@ -109,3 +109,6 @@
     #  url: /accommodations.html
    
 
+- name: Contact Information
+  url: /contact.html
+  icon: fa-envelope
