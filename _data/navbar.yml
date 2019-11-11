@@ -109,6 +109,6 @@
     #  url: /accommodations.html
    
 
-- name: Contact Information
+- name: Contact
   url: /contact.html
   icon: fa-envelope

@@ -25,7 +25,7 @@ The SICE Annual Conference 2020 (SICE 2020), organized by the Society of Instrum
 
 ## Tentative Conference Program
 
-[{% asset program-at-glance-program-1Ds4O1SerZeYmdIaWYn_w4qfmpqXpgPlywUvGo9kxqv8.png %}{: style="max-width: 100%" alt="ACM MobiHoc 2018 - Program-at-Glance"}](program-tentative.html)
+[{% asset program-at-glance-program-1_qfS2mWeak3oX3wUyxDxmk-DehPY6SjXlVWuPt4Y3Bw.png %}{: style="max-width: 100%" alt="SICE 2020 - Program-at-Glance"}](program-tentative.html)
 {: style="text-align: center;"}
 
 ## Technical Co-Sponsors  

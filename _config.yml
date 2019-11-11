@@ -42,7 +42,8 @@ program:
 #   # Google spreadsheet with the conference data
 #   spreadsheet:
 #     #- "1Mcgwl3mN0KkAWr9DJOVy9Nx-4iF2kqqEOk5yXK00meo"
-#     - "1Ds4O1SerZeYmdIaWYn_w4qfmpqXpgPlywUvGo9kxqv8"
+#     #- "1Ds4O1SerZeYmdIaWYn_w4qfmpqXpgPlywUvGo9kxqv8"
+#     - "1_qfS2mWeak3oX3wUyxDxmk-DehPY6SjXlVWuPt4Y3Bw"
 
 assets:
   caching:
