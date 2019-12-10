@@ -1,3 +1,73 @@
+/* Regular table style from Jekyll Doc Theme: https://github.com/tomjoht/documentation-theme-jekyll/blob/gh-pages/css/customstyles.css */
+table.DocTable {
+    background-color: transparent;
+}
+caption {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    color: #777;
+    text-align: left;
+}
+th {
+    text-align: left;
+}
+table.DocTable {
+    max-width: 90%;
+    margin-bottom: 20px;
+    border: 1px solid #dedede;
+}
+
+table.DocTable > thead > tr > th,
+table.DocTable > tbody > tr > th,
+table.DocTable > tfoot > tr > th,
+table.DocTable > thead > tr > td,
+table.DocTable > tbody > tr > td,
+table.DocTable > tfoot > tr > td {
+    padding: 8px;
+    line-height: 1.42857143;
+    vertical-align: top;
+    border-top: 1px solid #ddd;
+}
+table.DocTable > thead > tr > th {
+    vertical-align: bottom;
+    border-bottom: 2px solid #ddd;
+    text-transform: none;
+    background-color: #777;
+    color: white;
+    text-align: left;
+}
+table.DocTable > caption + thead > tr:first-child > th,
+table.DocTable > colgroup + thead > tr:first-child > th,
+table.DocTable > thead:first-child > tr:first-child > th,
+table.DocTable > caption + thead > tr:first-child > td,
+table.DocTable > colgroup + thead > tr:first-child > td,
+table.DocTable > thead:first-child > tr:first-child > td {
+    border-top: 0;
+}
+
+table.DocTable > tbody > tr:nth-of-type(odd) {
+    background-color: #f9f9f9;
+}
+
+table.DocTable col[class*="col-"] {
+    position: static;
+    display: table-column;
+    float: none;
+}
+table.DocTable td[class*="col-"],
+table.DocTable th[class*="col-"] {
+    position: static;
+    display: table-cell;
+    float: none;
+}
+
+table.DocTable tr td {
+    hyphens: auto;
+}
+
+
+
+
 .panel-body>table {
     margin-bottom: 0px;
 }

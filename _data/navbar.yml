@@ -23,8 +23,8 @@
     #   url: /cf-posters.html
     # - name: <del>Call for Demos</del>
     #   url: /cf-demos.html
-    # - name: Author Registration Policy
-    #   url: /policy-author-registration.html
+    - name: Registration
+      url: /registration.html
     # - name: No-Show Policy
     #   url: /policy-no-show.html
     - name: Student Travel Grants
@@ -70,6 +70,8 @@
       url: /program-tentative.html
     - name: Plenary Talks
       url: /plenary.html
+    - name: Call for Exhibition
+      url: /exhibition.html
 # #       # icon: fa-list-ul
 # #     - name: Posters
 # #       url: /program-posters.html
