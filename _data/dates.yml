@@ -9,24 +9,24 @@
 main-submissionopen:
   track: main
   info: Paper Submission Page Open
-  date: December 1, 2019
+  date: December 20, 2019
   important: true
 
 main-workshoppropose:
   track: main
-  info: Proposal of Workshop and Tutorials
+  info: Deadline for Proposal of Workshop and Tutorials
   date: February 14, 2020
   important: true
 
 main-sessionpropose:
   track: main
-  info: Proposal of Organized Sessions
+  info: Deadline for Proposal of Organized Sessions
   date: February 28, 2020
   important: true
 
 main-submission:
   track: main
-  info: Paper Submission Deadline (11:59pm PST)
+  info: <b>Paper Submission Deadline (11:59pm PST)</b>
   date: March 16, 2020 <!--<b>(firm, no extension)</b>-->
   important: true
 

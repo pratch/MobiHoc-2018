@@ -10,10 +10,10 @@ group: Author Information
 The SICE Annual Conference 2020 accepts two types of submissions for review:
 
 ### Regular Paper
-Full papers (6 pages in conference format) must be submitted for review. The accepted papers will be submitted for inclusion into **IEEE Xplore Digital Library** as well as other Abstracting and Indexing (A&I) databases. Normal length for the final manuscript of the regular paper is 6 pages. Paper exceeding 6 pages may be submitted upon payment of overlength page charges. A maximum of 2 extra pages above 6 pages are permitted. The paper must be submitted through [Submission System (TBD)](#) by the due date.
+Full papers (6 pages in conference format) must be submitted for review. The accepted papers will be submitted for inclusion into **IEEE Xplore Digital Library** as well as other Abstracting and Indexing (A&I) databases. Normal length for the final manuscript of the regular paper is 6 pages. Paper exceeding 6 pages may be submitted upon payment of overlength page charges. A maximum of 2 extra pages above 6 pages are permitted. The paper must be submitted through [Papercept](https://controls.papercept.net/conferences/scripts/start.pl#SICE20) by the due date.
 
 ### Position Paper
-Extended abstracts (2-4 pages in conference format) must be submitted for review. This category is provided for authors who want to present a timely review of research, a case study, and so on. This type of papers will **NOT be submitted for inclusion** into the IEEE Xplore Digital Library. The paper must be submitted through [Submission System (TBD)](#) by the due date.
+Extended abstracts (2-4 pages in conference format) must be submitted for review. This category is provided for authors who want to present a timely review of research, a case study, and so on. This type of papers will **NOT be submitted for inclusion** into the IEEE Xplore Digital Library. The paper must be submitted through [Papercept](https://controls.papercept.net/conferences/scripts/start.pl#SICE20) by the due date.
 
 ### Download Templates
 - [SICE2020 Tex Template]({% asset SICE2020TexTemplate.zip @path %})
@@ -33,7 +33,7 @@ The proposals for the organized sessions must be accompanied with the following 
 - Session organizers (name, affiliation, contact information);
 - Session chair;
 - List of presenters.
-The proposals must be submitted through [Submission System (TBD)](#) by the due date. The proposals are reviewed by the SICE2020 program committee. Please note that not all proposals may be accepted due to limitation of session slots. For the accepted proposals, the organizers are responsible for moderation of the session at SICE2020. When an organized session proposal is submitted, the invited session identification code is sent to the organizer. Please notify the presenters to input the code in submitting organized session regular/position papers. Deadline of the paper submission is the same as those of regular sessions, and the accepted papers will be included in the conference proceedings.
+The proposals must be submitted through [Papercept](https://controls.papercept.net/conferences/scripts/start.pl#SICE20) by the due date. The proposals are reviewed by the SICE2020 program committee. Please note that not all proposals may be accepted due to limitation of session slots. For the accepted proposals, the organizers are responsible for moderation of the session at SICE2020. When an organized session proposal is submitted, the invited session identification code is sent to the organizer. Please notify the presenters to input the code in submitting organized session regular/position papers. Deadline of the paper submission is the same as those of regular sessions, and the accepted papers will be included in the conference proceedings.
 
 The invited session identification code can be found in the manuscript data shown in the acknowledgment letter. This code is needed for the submission of an organized session paper.
 The type of presentation of Organized Sessions is only Oral Presentation.
@@ -54,4 +54,4 @@ The proposals for workshops or tutorials must be accompanied with the following 
 - List of speakers;
 - List of topics.
 
-The proposals must be submitted through [Submission System (TBD)](#) by the due date. Upon approval the organizers will be asked to produce and maintain a dedicated workshop/tutorial webpage which shall be used to disseminate updated information on the workshop/tutorial and also to raise interest from potential additional presenters and participants. The organizers will also be required to collect and integrate workshop/tutorial abstract (A4 size, 1page) in due time for the production of the SICE 2020 handout.
+The proposals must be submitted through [Papercept](https://controls.papercept.net/conferences/scripts/start.pl#SICE20) by the due date. Upon approval the organizers will be asked to produce and maintain a dedicated workshop/tutorial webpage which shall be used to disseminate updated information on the workshop/tutorial and also to raise interest from potential additional presenters and participants. The organizers will also be required to collect and integrate workshop/tutorial abstract (A4 size, 1page) in due time for the production of the SICE 2020 handout.

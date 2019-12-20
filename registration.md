@@ -14,18 +14,17 @@ group: Author Information
 - Full registrants may upload up to one final paper. Student registrants are allowed to upload one final paper. Extra papers may be uploaded upon payment of Extra Paper Charge of 15,000 JPY for each additional paper. 
 - Society Member/Non-Member who does not upload the paper pays the same rates as the following table.
 - All registered participants will receive one set of the conference proceedings on a USB flash drive.
-- All registrations also include the conference banquet.
 - All rates inclusive of 10% consumption tax.
 
 {:.DocTable}
 
-|Category           |Advanced (By Aug. 1, 2020)|Standard (After Aug. 2, 2020)|Paper Upload|Banquet Ticket|
+|Category           |Advanced (By Aug. 1, 2020)|Standard (After Aug. 2, 2020)|Paper Upload|
 |----|----|----|----|
-|Full Society Member|45,000 JPY|55,000 JPY|1 Included|1 Included|
-|Full Non-Member|60,000 JPY|70,000 JPY|1 Included|1 Included|
-|Student Member|27,000 JPY|37,000 JPY|1 Included|1 Included|
-|Student Non-Member|32,000 JPY|42,000 JPY|1 Included|1 Included|
-|Accompanying Person|20,000 JPY|30,000 JPY|Not Included|1 Included|
+|Full Society Member|45,000 JPY|55,000 JPY|1 Included|
+|Full Non-Member|60,000 JPY|70,000 JPY|1 Included|
+|Student Member|27,000 JPY|37,000 JPY|1 Included|
+|Student Non-Member|32,000 JPY|42,000 JPY|1 Included|
+|Accompanying Person|20,000 JPY|30,000 JPY|Not Included|
 
 #### Extra Conference Proceedings
 
