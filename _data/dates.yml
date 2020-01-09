@@ -44,8 +44,8 @@ main-due:
 
 main-earlyregistration:
   track: main
-  info: Early Registration
-  date: July 1, 2020
+  info: Early Registration Deadline
+  date: August 1, 2020
   important: true
 
 # main-registration:
