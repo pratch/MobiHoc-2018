@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Plenary Talks
-group: Conference
+group: Plenary
 
 ---
 

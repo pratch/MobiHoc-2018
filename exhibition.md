@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Call for Exhibition
-group: Conference
+group: Exhibitions
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Student Travel Grants
-group: Author Information
+title: Student Travel Grant Award
+group: Awards
 ---
 
 # {{ page.title }}

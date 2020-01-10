@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tentative Program
-group: Conference
+group: Program & Events
 
 ---
 

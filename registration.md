@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Registration
-group: Author Information
+group: Registration
 
 ---
 

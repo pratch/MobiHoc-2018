@@ -140,3 +140,17 @@ table.hotel {
 .center {
     text-align: center;
 }
+
+/* Add chevron glyphicon to expandable menu */ 
+.panel-heading  .panel-title-group:before {
+    font-family: 'Glyphicons Halflings';
+    content: "\e114";
+    color: #D1D1D1;
+    float: right;
+    transition: all 0.5s;
+ }
+ /*.panel-heading.active .panel-title-group:before {
+     -webkit-transform: rotate(180deg);
+     -moz-transform: rotate(180deg);
+     transform: rotate(180deg);
+ } */
