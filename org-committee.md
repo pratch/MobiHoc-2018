@@ -21,6 +21,8 @@ committees:
         affiliation:  ECTI President (PSU, Thailand) 
       - name:  Seensiri Sangajit 
         affiliation:  RMUTL President (RMUTL, Thailand)
+      - name:  Bandhit Rojarayanont
+        affiliation: TNI President (TNI, Thailand)
       
   - role:  General Co-Chairs
     people: 
@@ -42,6 +44,8 @@ committees:
         affiliation:  KMITL, Thailand
       - name:  Uthen Kamnarn 
         affiliation:  RMUTL, Thailand
+      - name: Ruttikorn Varakulsiripunth
+        affiliation: TNI, Thailand
   - role:  Publication Co-Chairs
     people: 
       - name:  Tadashi Ito 
@@ -78,8 +82,6 @@ committees:
         affiliation:  Gunma U., Japan
       - name:  Nobuaki Nakazawa 
         affiliation:  Gunma U., Japan
-      - name:  Koichi Mizutani 
-        affiliation:  TNI, Thailand
       - name:  Nopadon Maneetien 
         affiliation:  RMUTL, Thailand
       - name:  Nuttarut Panananda 
