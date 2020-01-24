@@ -41,15 +41,16 @@ group: Registration
 |Extra Page Charge | 10,000 JPY per page |
 |Extra Paper Charge| 15,000 JPY |
 
-{% comment %}
 ### Tutorial and Workshops Registration Fee
 
-{:.DocTable}
-|---|---|
-|For registrant of SICE2020|0 JPY|
-|For non-registrant of SICE2020 <br>(who attend tutorials and workshops only)|7,000 JPY|
+The participation in a workshop or tutorial requires pre-registration according to the following registration fees depending on whether the registrant is a participant of SICE 2020 Conference.
 
-{% endcomment %}
+{:.DocTable}
+|Registration Category|Participants of SICE 2020 Conference|Non-participants of SICE 2020 Conference|
+|---|---|---|
+|Full day registration fees|7,000 JPY|14,000 JPY|
+|Half day registration fees|3,000 JPY|6,000 JPY|
+
 
 ### Cancellation Policy
 

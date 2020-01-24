@@ -16,8 +16,8 @@ Internet of Things (IoT) and Cyber-Physical Systems(CPS), that are technologies 
 SICE is the most excellent in the technical fields such as IoT, CPS, AI, big data, cloud computing, automatic driving, etc, that support Society 5.0. The SICE Annual Conference Committee expects that a number of SICE2020 participants come to this event to have active discussions and to exchange much technical information through this event.
 
 ### Download Application Forms
-- [SICE2020 Exhibition Application Form (English)]({% asset SICE2020_CallForExhibitions_ver_1m5.pdf @path %})
-- [SICE2020 Exhibition Application Form (Japanese)]({% asset SICE2020_CallForExhibitions_20191219Jp-2.pdf @path %})
+- [SICE2020 Exhibition Application Form (English)]({% asset Call_for_Exihibition_En_6.pdf @path %})
+- [SICE2020 Exhibition Application Form (Japanese)]({% asset Call_for_Exihibition_Jp_6.pdf @path %})
 
 ### Exhibition Cost
 
@@ -54,6 +54,7 @@ Exhibitors will be able to add one or more optional packages below according to 
 |Advertising on the conference bag|Your company’s name and logo will be printed on the conference bags.|Company's logo image|JPY 100,000|JPY 120,000||
 |Coffee Break Sign|A sign with your company's name and logo will be displayed at the break table |Company's logo image|JPY 50,000|JPY 50,000||
 |Stamp Rally|We would appreciate if you could provide promotional giveaway items for participants.||||
+|Technical Presentation (Additional application)|Charge for additional presentations. Note that the basic fee already included one presentation. ||JPY 20,000 per presentation|JPY 20,000 per presentation| 
 
 ### Exhibitors List
 
