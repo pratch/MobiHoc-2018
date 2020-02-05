@@ -12,6 +12,10 @@ committees:
         affiliation:  Chulalongkorn U., Thailand
       - name:  Yuttana Kumsuwan 
         affiliation:  Chiang Mai U., Thailand
+  - role:  Organized Session Chair
+    people:
+      - name: Shinkichi Inagaki
+        affiliation: Nagoya U., Japan
   - role:  PC Vice-Chairs 
     people: 
       - name:  TBD 

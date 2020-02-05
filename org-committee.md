@@ -76,6 +76,8 @@ committees:
         affiliation: URU, Thailand
       - name: Chanon Warisarn
         affiliation: KMITL, Thailand
+      - name: Supakit Kawdungta
+        affiliation: RMUTL, Thailand
   - role:  Exhibition and Industrial Relations Co-Chairs
     people: 
       - name:  Takao Yamaguchi 

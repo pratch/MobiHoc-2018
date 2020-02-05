@@ -48,6 +48,8 @@
   submenu:
     - name: Student Travel Grant Award
       url: /student-travel-grants.html
+    - name: SICE Annual Conference Awards
+      url: /annual-awards.html
 
 - name: Local Information
   icon: fa-map

@@ -24,7 +24,7 @@ The specific areas of interest include, but are not limited to:
 - Identification and Estimation
 - Opto-Electronic Measurement
 - Remote Sensing
-- Mass and Force Measurement
+- Mechanical Quantity Measurement
 - Temperature Measurement
 - Ultra-High Precision Measurement
 - Analytical Measurement
