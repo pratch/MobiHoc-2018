@@ -68,14 +68,14 @@ committees:
         affiliation:  AIST, Japan
       - name:  Poonyasiri Boonpeng 
         affiliation:  RMUTL, Thailand
-      - name:  Prasert Luekhong 
-        affiliation:  RMUTL,Thailand
   - role: Special Session Co-Chairs
     people:
       - name: Chaiyan Chanapromma 
         affiliation: URU, Thailand
       - name: Chanon Warisarn
         affiliation: KMITL, Thailand
+      - name: Supaporn Kiattisin
+        affiliation: Mahidol U., Thailand
       - name: Supakit Kawdungta
         affiliation: RMUTL, Thailand
   - role:  Exhibition and Industrial Relations Co-Chairs
@@ -132,6 +132,10 @@ committees:
         affiliation:  KMITL, Thailand
       - name:  Nobuaki Nakazawa 
         affiliation:  Gunma U., Japan
+      - name:  Prasert Luekhong 
+        affiliation:  RMUTL, Thailand
+      - name:  Anan Wongjan
+        affiliation:  RMUTL, Thailand
   - role:  Secretariats
     people: 
       - name:  Takaaki Suzuki 

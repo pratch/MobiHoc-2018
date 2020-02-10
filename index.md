@@ -76,6 +76,9 @@ The SICE Annual Conference 2020 (SICE 2020), organized by the Society of Instrum
       <a href="">{% asset logos/TNI.png %}</a>
   </div>
   <div class="sponsor">
+      <a href="">{% asset logos/citt.jpg %}</a>
+  </div>
+  <div class="sponsor">
       <a href="">{% asset logos/CIS_logo2.jpg %}</a>
   </div>
   <div class="sponsor">
