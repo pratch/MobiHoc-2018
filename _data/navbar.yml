@@ -53,6 +53,10 @@
   submenu:
     - name: Student Travel Grant Award
       url: /student-travel-grants.html
+    - name: Student Registration Grant Award
+      url: /student-registration-grants.html
+    - name: SICE International Young Authors Award
+      url: /young-authors-award.html
     - name: SICE Annual Conference Awards
       url: /annual-awards.html
 
