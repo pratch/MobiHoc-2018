@@ -20,6 +20,8 @@
   submenu:
     - name: Tentative Program
       url: /program-tentative.html
+    - name: SICE2020 ASEAN Networking Workshop
+      url: /ws-asean-network.html
 
 - name: Plenary Talks
   url: /plenary.html
