@@ -8,6 +8,19 @@
         {% else %}
           {% capture url %}{{ site.baseurl }}{{ item.url }}{% endcapture %}
         {% endif %}
+        {% if item.name == "Notice about COVID-19" %}
+        <div class="panel {% if item.name == page.title or item.name == page.group %}panel-info{% else %}panel-info{% endif %}">
+          <div class="panel-heading" role="tab" id="heading{{ forloop.index }}"
+               {% if item.submenu %}
+                onclick="$('#collapse{{ forloop.index }}').collapse('toggle')" 
+               {% elsif item.name == "Home" %}
+               onclick="window.location = 'index.html'"
+               {% elsif item.name != page.title and item.name != page.group %}              
+               onclick="window.location = '{{ url }}'"
+               {% endif %}
+          >
+
+        {% else %}
         <div class="panel {% if item.name == page.title or item.name == page.group %}panel-primary{% else %}panel-default{% endif %}">
           <div class="panel-heading" role="tab" id="heading{{ forloop.index }}"
                {% if item.submenu %}
@@ -18,6 +31,7 @@
                onclick="window.location = '{{ url }}'"
                {% endif %}
           >
+        {% endif %}
             <h4 class="panel-title {% if item.submenu != nil %}panel-title-group{% endif %}">{% if item.icon %}<i class="fa {{ item.icon }}" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;{% endif %}{{ item.name }}
             </h4>
           </div>

@@ -16,6 +16,7 @@ The proposals for the organized sessions must be accompanied with the following 
 - Session organizers (name, affiliation, contact information);
 - Session chair;
 - List of presenters.
+
 The proposals must be submitted through [Papercept](https://controls.papercept.net/conferences/scripts/start.pl#SICE20) by the due date. The proposals are reviewed by the SICE2020 program committee. Please note that not all proposals may be accepted due to limitation of session slots. For the accepted proposals, the organizers are responsible for moderation of the session at SICE2020. When an organized session proposal is submitted, the invited session identification code is sent to the organizer. Please notify the presenters to input the code in submitting organized session regular/position papers. Deadline of the paper submission is the same as those of regular sessions, and the accepted papers will be included in the conference proceedings.
 
 The invited session identification code can be found in the manuscript data shown in the acknowledgment letter. This code is needed for the submission of an organized session paper.
