@@ -6,7 +6,52 @@ group: Home
 
 # Welcome to SICE 2020
 
+<div style="margin: auto; max-width:600px">
+{% include carousel.html height="65" unit="%" duration="1" %}
+</div>
+<sup>[Photos provided by Tourism Authority of Thailand (TAT), Osaka Office](https://portal.tourismthailand.org/#)</sup>
+{: .center}
+
 The SICE Annual Conference 2020 (SICE 2020), organized by the Society of Instrument and Control Engineers (SICE) and the Electrical Engineering/ Electronics, Computer, Telecommunications and Information Technology (ECTI) Association, will be held on September 23-26, 2020, in Chiang Mai, THAILAND. The SICE Annual Conference 2020 is an international conference covering a broad range of fields from measurement and control to system analysis and design, from theory to application, and from software to hardware. Also included are topics in computer and information technology, network and communications, electronics, and digital signal processing. The technical program of SICE 2020 will consist of plenary and invited talks, tutorial courses, and workshops, as well as oral and interactive sessions. 
+
+<script>
+  // terrible hack to get carousel to autoplay (assign id "indic"+[a-f] to the 6 indicators)
+  var next = "b";
+  var interval;
+  var timer = function(){
+  interval = setInterval(function(){
+    var id = "indic".concat(next);
+    //console.log(id);
+    document.getElementById(id).click();
+    next = String.fromCharCode(next.charCodeAt() + 1 ) 
+    if(next == "g")
+        next = "a";
+  }, 5000);
+  };
+  timer();
+  $('.carousel__control--forward').click(function(){
+    next = String.fromCharCode(next.charCodeAt() + 1 );
+    if(next == "g")
+        next = "a";
+    clearInterval(interval);
+    timer();
+  });
+
+  $('.carousel__control--backward').click(function(){
+    if(next == "a")
+        next = "g";
+    else
+        next = String.fromCharCode(next.charCodeAt() - 1 ); 
+    clearInterval(interval);
+    timer();
+  });
+  $('.carousel__indicator').click(function(){
+      var id = this.id;
+      next = id.slice(-1);
+      clearInterval(interval);
+      timer();
+  });
+</script>
 
 <br>
 
@@ -95,4 +140,5 @@ The SICE Annual Conference 2020 (SICE 2020), organized by the Society of Instrum
   </div>
 </div>
 
-{% include photoswipe.html %}
+
+

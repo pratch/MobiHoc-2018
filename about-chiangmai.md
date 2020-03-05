@@ -7,6 +7,53 @@ group: Local Information
 
 # {{ page.title }}
 
+<div style="margin: auto; max-width:600px">
+{% include carousel.html height="65" unit="%" duration="7" %}
+</div>
+[Photos provided by Tourism Authority of Thailand (TAT), Osaka Office](https://portal.tourismthailand.org/#)
+{: .center}
+
+<script>
+  // terrible hack to get carousel to autoplay (assign id "indic"+[a-f] to the 6 indicators)
+  var next = "b";
+  var interval;
+  var timer = function(){
+  interval = setInterval(function(){
+    var id = "indic".concat(next);
+    //console.log(id);
+    document.getElementById(id).click();
+    next = String.fromCharCode(next.charCodeAt() + 1 ) 
+    if(next == "g")
+        next = "a";
+  }, 5000);
+  };
+  timer();
+  $('.carousel__control--forward').click(function(){
+    next = String.fromCharCode(next.charCodeAt() + 1 );
+    if(next == "g")
+        next = "a";
+    clearInterval(interval);
+    timer();
+  });
+
+  $('.carousel__control--backward').click(function(){
+    if(next == "a")
+        next = "g";
+    else
+        next = String.fromCharCode(next.charCodeAt() - 1 ); 
+    clearInterval(interval);
+    timer();
+  });
+  $('.carousel__indicator').click(function(){
+      var id = this.id;
+      next = id.slice(-1);
+      clearInterval(interval);
+      timer();
+  });
+</script>
+
+### General Information
+
 {% asset cm1.jpg width="200 px" style='float\: left; margin\:5px 10px 0px 0px;' alt='' %}
 
 Experiencing the merging of the past into the present in Chiang Mai where locals are proud of the city's 700-year history. Its rich traditional heritage and unique culture is a perfect foundation for the development of the city. Chiang Mai is one of the few places in Thailand where it is possible to find in the heart of the city centuries-old chedis and temples next to modern convenience stores and boutique hotels. The original city layout still exists as a neat square surrounded by a moat with vestiges of the fortified wall and its four main gates offering prime access to the old town. 
