@@ -18,13 +18,13 @@ group: Registration
 
 {:.DocTable}
 
-|Category           |Advanced (By Aug. 1, 2020)|Standard (After Aug. 2, 2020)|Paper Upload|
-|----|----|----|----|
-|Full Society Member|45,000 JPY|55,000 JPY|1 Included|
-|Full Non-Member|60,000 JPY|70,000 JPY|1 Included|
-|Student Member|27,000 JPY|37,000 JPY|1 Included|
-|Student Non-Member|32,000 JPY|42,000 JPY|1 Included|
-|Accompanying Person|20,000 JPY|30,000 JPY|Not Included|
+|Category           |Advanced<br>(By Aug. 1, 2020)|Standard<br>(After Aug. 2, 2020)|Paper Upload|Banquet Ticket|
+|----|----|----|----|----|
+|Full Society Member|45,000 JPY|55,000 JPY|1 Included|1 Included|
+|Full Non-Member|60,000 JPY|70,000 JPY|1 Included|1 Included|
+|Student Member|27,000 JPY|37,000 JPY|1 Included|Not Included|
+|Student Non-Member|32,000 JPY|42,000 JPY|1 Included|Not Included|
+|Accompanying Person|20,000 JPY|30,000 JPY|Not Included|Not Included|
 
 #### Extra Conference Proceedings
 

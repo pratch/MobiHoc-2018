@@ -1,6 +1,8 @@
 {% assign letterstring = "a,b,c,d,e,f,g,h,i,j,k,l,m,n" %}
 {% assign letters = letterstring | split: ',' %}
 
+<!-- no-plugin carousel code from: https://jekyllcodex.org/without-plugin/slider/ 
+     added autoplay with JS below -->
 
 <div class="carousel__holder">
     <div class="carousel">
@@ -179,3 +181,44 @@
 }
 {% endfor %}
 </style>
+
+<script>
+  // terrible hack to get the carousel to autoplay (assign id "indic"+[a-f] to the 6 indicators)
+  var num_photos = {{ site.data.carousel.images | size }};
+  var first = "a";
+  var next = "b";
+  var end = String.fromCharCode(first.charCodeAt() + num_photos) 
+  var interval;
+  var timer = function(){
+    interval = setInterval(function(){
+        var id = "indic".concat(next);
+        document.getElementById(id).click();
+        next = String.fromCharCode(next.charCodeAt() + 1 ) 
+        if(next == end)
+            next = first;
+    }, 5000);
+  };
+  timer();
+  $('.carousel__control--forward').click(function(){
+    next = String.fromCharCode(next.charCodeAt() + 1 );
+    if(next == end)
+        next = first;
+    clearInterval(interval);
+    timer();
+  });
+
+  $('.carousel__control--backward').click(function(){
+    if(next == first)
+        next = end;
+    else
+        next = String.fromCharCode(next.charCodeAt() - 1 ); 
+    clearInterval(interval);
+    timer();
+  });
+  $('.carousel__indicator').click(function(){
+      var id = this.id;
+      next = id.slice(-1);
+      clearInterval(interval);
+      timer();
+  });
+</script>
