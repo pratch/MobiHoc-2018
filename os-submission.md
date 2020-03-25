@@ -7,7 +7,7 @@ group: Organized Sessions
 
 # {{ page.title }}
 
-The goal of organized session is to provide focused discussions on a new topic or innovative applications of a new approach. Each session consists of 6 papers, which reviewed via the normal review process. Both regular and position papers can be included in a session. For session proposals, it is recommended to include a brief statement of the session focus, together with the submission of the individual papers. We also encourage proposals for workshops or tutorials that address technical topics with highly anticipated level of interest, impact, and creativity.
+The goal of organized session is to provide focused discussions on a new topic or innovative applications of a new approach. **Each session proposal consists of at least 4 papers**, which will be reviewed via the standard review process. Both regular and position papers can be included in a session. For the session proposals, it is recommended to include a brief statement of the session focus, together with the submission of the individual papers. We also encourage proposals for workshops or tutorials that address technical topics with highly anticipated level of interest, impact, and creativity.
 
 ### Submission (OS):
 The proposals for the organized sessions must be accompanied with the following information:

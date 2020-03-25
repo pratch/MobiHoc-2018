@@ -15,19 +15,19 @@ main-submissionopen:
 main-workshoppropose:
   track: main
   info: Deadline for Proposal of Workshop and Tutorials
-  date: <del>February 14, 2020</del><br/> <font color="red">March 20, 2020</font>
+  date: <del>February 14, 2020</del><br/> <del>March 20, 2020</del><br/> <font color="red">March 31, 2020</font>
   important: true
 
 main-sessionpropose:
   track: main
   info: Deadline for Proposal of Organized Sessions
-  date: <del>February 28, 2020</del><br/> <font color="red">March 20, 2020</font>
+  date: <del>February 28, 2020</del><br/> <del>March 20, 2020</del><br/> <font color="red">March 31, 2020</font>
   important: true
 
 main-submission:
   track: main
   info: <b>Paper Submission Deadline (11:59pm PST)</b>
-  date: <del>March 16, 2020 </del><br/> <font color="red">March 31, 2020</font>
+  date: <del>March 16, 2020 </del><br/> <del>March 31, 2020</del><br/> <font color="red">April 12, 2020</font>
   important: true
 
 main-notification:

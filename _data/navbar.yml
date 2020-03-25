@@ -37,6 +37,10 @@
     - name: Organized Sessions Submission
       url: /os-submission.html
 
+- name: Industry-Driven OS
+  url: /industry-session.html
+  icon: fa-industry
+
 - name: Special Sessions
   url: /special-sessions.html
   icon: fa-asterisk

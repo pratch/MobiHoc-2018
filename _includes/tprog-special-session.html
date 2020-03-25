@@ -10,6 +10,7 @@
   {% if session.slides and session.slides != "" %}{% assign has_slides = true %}{% else %}{% assign has_slides = nil %}{% endif %}
   {% if session.video    and session.video  != "" %}{% assign has_video  = true %}{% else %}{% assign has_video  = nil %}{% endif %}
   {% if session.code    and session.code  != "" %}{% assign has_code  = true %}{% else %}{% assign has_code  = nil %}{% endif %}
+  {% if session.paperlist    and session.paperlist  != "" %}{% assign has_paperlist  = true %}{% else %}{% assign has_paperlist = nil %}{% endif %}
 
 
   {% comment %}<!-- make space for the button(s) -->{% endcomment %}
@@ -24,6 +25,24 @@
   {% endunless %}
 
   <br>
+
+  <style type="text/css">
+    table.tableizer-table {
+      font-size: 12px;
+      border: 1px solid #CCC; 
+      font-family: Arial, Helvetica, sans-serif;
+    } 
+    .tableizer-table td {
+      padding: 4px;
+      margin: 3px;
+      border: 1px solid #CCC;
+    }
+    .tableizer-table th {
+      background-color: #104E8B; 
+      color: #FFF;
+      font-weight: bold;
+    }
+  </style>
 
   <div class="panel panel-info">
     <div class="panel-heading">
@@ -58,6 +77,32 @@
           <p>
             <b>Session Code: </b><code>{{ session.code }}</code>
           </p>
+        {% endif %}
+
+        {% if has_paperlist %}
+
+          <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModalLong{{ session.code }}">
+            View Papers
+          </button>
+          
+          <div class="modal fade" id="exampleModalLong{{ session.code }}" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+            <div class="modal-dialog modal-lg" role="document">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <h5 class="modal-title" id="exampleModalLongTitle">Special Session on {{ session.title }}</h5>
+                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                  </button>
+                </div>
+                <div class="modal-body">
+                  {{ session.paperlist }}
+                </div>
+                <div class="modal-footer">
+                  <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+                </div>
+              </div>
+            </div>
+          </div>
         {% endif %}
 
 

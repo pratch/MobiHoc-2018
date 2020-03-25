@@ -16,8 +16,8 @@ Internet of Things (IoT) and Cyber-Physical Systems(CPS), that are technologies 
 SICE is the most excellent in the technical fields such as IoT, CPS, AI, big data, cloud computing, automatic driving, etc, that support Society 5.0. The SICE Annual Conference Committee expects that a number of SICE2020 participants come to this event to have active discussions and to exchange much technical information through this event.
 
 ### Download Application Forms
-- [SICE2020 Exhibition Application Form (English)]({% asset Call_for_Exihibition_En_6.pdf @path %})
-- [SICE2020 Exhibition Application Form (Japanese)]({% asset Call_for_Exihibition_Jp_6.pdf @path %})
+- [SICE2020 Exhibition Application Form (English)]({% asset Call_for_Exhibition_En_7.pdf @path %})
+- [SICE2020 Exhibition Application Form (Japanese)]({% asset Call_for_Exhibition_Jp_7.pdf @path %})
 
 ### Exhibition Cost
 
