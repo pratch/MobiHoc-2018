@@ -72,6 +72,12 @@
 
           <!-- CONTENT -->
           <div class="col-sm-9 col-lg-9">
+            <!-- COVID announcement -->
+            {% if page.title != "Notice about COVID-19" %}
+            <div class="alert alert-danger" role="alert">
+              <b>SICE 2020 in Chiang Mai to be held ONLINE.</b> Please see the <a href="notice-covid.html" class="alert-link">announcement</a>.
+            </div>
+            {% endif %}
             {{ content }}
           </div>
         </div>
