@@ -20,11 +20,15 @@ group: Registration
 
 |Category           |Advanced<br>(By Aug. 1, 2020)|Standard<br>(After Aug. 2, 2020)|Paper Upload|Banquet Ticket|
 |----|----|----|----|----|
-|Full Society Member|45,000 JPY|55,000 JPY|1 Included|1 Included|
-|Full Non-Member|60,000 JPY|70,000 JPY|1 Included|1 Included|
-|Student Member|27,000 JPY|37,000 JPY|1 Included|Not Included|
-|Student Non-Member|32,000 JPY|42,000 JPY|1 Included|Not Included|
-|Accompanying Person|20,000 JPY|30,000 JPY|Not Included|Not Included|
+|<del>Full Society Member</del>|<del>45,000 JPY</del>|<del>55,000 JPY</del>|<del>1 Included</del>|<del>1 Included</del>|
+|**<font color="#337ab7">Full Society Member [ONLINE]</font>**|**<font color="#337ab7">20,000 JPY</font>**|**<font color="#337ab7">25,000 JPY</font>**|**<font color="#337ab7">1 Included</font>**|**<font color="#337ab7">Not Included</font>**|
+|<del>Full Non-Member</del>|<del>60,000 JPY</del>|<del>70,000 JPY</del>|<del>1 Included</del>|<del>1 Included</del>|
+|**<font color="#337ab7">Full Non-Member [ONLINE]</font>**|**<font color="#337ab7">27,000 JPY</font>**|**<font color="#337ab7">32,000 JPY</font>**|**<font color="#337ab7">1 Included</font>**|**<font color="#337ab7">Not Included</font>**|
+|<del>Student Member</del>|<del>27,000 JPY</del>|<del>37,000 JPY</del>|<del>1 Included</del>|<del>Not Included</del>|
+|**<font color="#337ab7">Student Member [ONLINE]</font>**|**<font color="#337ab7">7,000 JPY</font>**|**<font color="#337ab7">11,000 JPY</font>**|**<font color="#337ab7">1 Included</font>**|**<font color="#337ab7">Not Included</font>**|
+|<del>Student Non-Member</del>|<del>32,000 JPY</del>|<del>42,000 JPY</del>|<del>1 Included</del>|<del>Not Included</del>|
+|**<font color="#337ab7">Student Non-Member [ONLINE]</font>**|**<font color="#337ab7">12,000 JPY</font>**|**<font color="#337ab7">16,000 JPY</font>**|**<font color="#337ab7">1 Included</font>**|**<font color="#337ab7">Not Included</font>**|
+|<del>Accompanying Person</del>|<del>20,000 JPY</del>|<del>30,000 JPY</del>|<del>Not Included</del>|<del>Not Included</del>|
 
 #### Extra Conference Proceedings
 
@@ -48,13 +52,14 @@ The participation in a workshop or tutorial requires pre-registration according 
 {:.DocTable}
 |Registration Category|Participants of SICE 2020 Conference|Non-participants of SICE 2020 Conference|
 |---|---|---|
-|Full day registration fees|7,000 JPY|14,000 JPY|
-|Half day registration fees|3,000 JPY|6,000 JPY|
-
+|<del>Full day registration fees</del>|<del>7,000 JPY</del>|<del>14,000 JPY</del>|
+|**<font color="#337ab7">Full day registration fees [ONLINE]</font>**|**<font color="#337ab7">5,000 JPY</font>**|**<font color="#337ab7">10,000 JPY</font>**|
+|<del>Half day registration fees</del>|<del>3,000 JPY</del>|<del>6,000 JPY</del>|
+|**<font color="#337ab7">Half day registration fees [ONLINE]</font>**|**<font color="#337ab7">2,500 JPY</font>**|**<font color="#337ab7">5,000 JPY</font>**|
 
 ### Cancellation Policy
 
-In case of cancellation on or before August 1, your registration fee will be refunded after deducting the cancellation fee (10,000 JPY). Please note all refunds will be made after the conference. Note that, after August 2, your registration fee will NOT be refunded. In any case, if your registration is used to upload your contribution (paper/video) for SICE2020, your registration fee cannot be refunded.
+In case of cancellation on or before August 1, your registration fee will be refunded after deducting the cancellation fee (7,000 JPY). Please note all refunds will be made after the conference. Note that, after August 2, your registration fee will NOT be refunded. In any case, if your registration is used to upload your contribution (paper/video) for SICE2020, your registration fee cannot be refunded.
 
 Disclaimer: The organizers of SICE2020 wish to obtain your prior understanding that we will not be held liable for any damages incurred by participants (such as participating fees, transportation expenses, lodging expenses) as a result of a partial revision or cancellation of all or any of the content of the meeting that occurs due to reasons beyond our control, such as act of providence, outbreak of an infectious disease, or suspension of services by the venue and transportation networks.
 
@@ -65,6 +70,6 @@ Disclaimer: The organizers of SICE2020 wish to obtain your prior understanding t
 
 {:.DocTable}
 |---|---|
-|On or before Aug. 1, 2020 (JST) | 10,000 JPY |
+|On or before Aug. 1, 2020 (JST) | 7,000 JPY |
 |After Aug. 2, 2020 (JST)| 100% of the registration fee (No refund) |
 
