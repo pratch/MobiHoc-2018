@@ -5,6 +5,10 @@ group: Program & Events
 
 ---
 
+<div class="alert alert-warning" role="alert">
+    SICE2020 ASEAN Networking Worshop has been canceled since SICE2020 will be held ONLINE.
+</div>
+
 ### Call for Attendance
 {: .center}
 

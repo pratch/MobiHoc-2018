@@ -27,19 +27,19 @@ main-sessionpropose:
 main-submission:
   track: main
   info: <b>Paper Submission Deadline (11:59pm PST)</b>
-  date: <del>March 16, 2020 </del><br/> <del>March 31, 2020</del><br/> <font color="red">April 12, 2020</font>
+  date: <del>March 16, 2020 </del><br/> <del>March 31, 2020</del><br/> <del>April 12, 2020</del><br/> <del>May 8, 2020</del><br/> <font color="red">May 31, 2020</font>
   important: true
 
 main-notification:
   track: main
   info: Acceptance Notification
-  date: June 1, 2020
+  date: <del>June 1, 2020 </del><br/> <font color="red">June 30, 2020</font>
   important: true
 
 main-due:
   track: main
   info: Camera Ready Due
-  date: July 1, 2020
+  date: <del>July 1, 2020 </del><br/> <font color="red">August 1, 2020</font>
   important: true
 
 main-earlyregistration:

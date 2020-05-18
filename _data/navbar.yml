@@ -13,6 +13,8 @@
       url: /cfp.html
     - name: Paper Submission
       url: /submission.html
+    - name: Instructions for Presentation
+      url: /instruction-presentation.html
 
 - name: Registration
   url: /registration.html
@@ -53,11 +55,9 @@
       url: /ws-submission.html
 
 - name: Exhibitions
+  url: /exhibition.html
   icon: fa-id-card
-  submenu:
-    - name: Call for Exhibition
-      url: /exhibition.html
-
+  
 - name: Awards
   icon: fa-trophy
   submenu:

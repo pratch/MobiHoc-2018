@@ -5,6 +5,10 @@ group: Exhibitions
 
 ---
 
+<!--<div class="alert alert-warning" role="alert">
+    SICE2020 Special Project -Exhibition on Technologies for Exciting Innovations for Smart Societies- has been canceled since SICE2020 will be held ONLINE.
+</div>-->
+
 # {{ page.title }}
 
 SICE Annual Conference Committee is proud to present:
