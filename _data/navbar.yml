@@ -13,6 +13,8 @@
       url: /cfp.html
     - name: Paper Submission
       url: /submission.html
+    - name: Video Submission
+      url: /video-submission.html
     - name: Instructions for Presentation
       url: /instruction-presentation.html
 
@@ -28,6 +30,8 @@
       url: /program-tentative.html
     - name: SICE2020 ASEAN Networking Workshop
       url: /ws-asean-network.html
+    - name: SICE WEEK 2020
+      url: /sice-week.html
 
 - name: Plenary Talks
   url: /plenary.html
@@ -53,6 +57,8 @@
   submenu:
     - name: Workshops & Tutorials Submission
       url: /ws-submission.html
+    - name: "Workshop: RT-Middleware Tutorial for Beginners"
+      url: /ws-rt-middleware.html
 
 - name: Exhibitions
   url: /exhibition.html

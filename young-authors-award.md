@@ -35,7 +35,7 @@ Prepare the following information and materials, and submit them via [Papercept]
 
 It should be noted that an applicant is eligible to receive only one award during SICE2020.
 
-Application deadline for SIYA-SICE2020: **Wednesday, July 1, 2020**
+Application deadline for SIYA-SICE2020: <del>Wednesday, July 1, 2020</del> **Monday, July 20, 2020**
 
 ### Award results
 

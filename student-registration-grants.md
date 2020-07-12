@@ -4,6 +4,10 @@ title: Student Registration Grant Award
 group: Awards
 ---
 
+<div class="alert alert-warning" role="alert">
+    Student Registration Grant Award (SRGA) has been canceled since SICE2020 will be held ONLINE.
+</div>
+
 ## Student Registration Grant Award (SRGA)
 
 We encourage students form the ASEAN countries to apply for this Student Registration Grant Award (SRGA). This grant award will provide financial assistance to cover the registration fee for students who intend to give a presentation at SICE2020. 

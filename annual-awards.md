@@ -4,6 +4,10 @@ title: SICE Annual Conference Awards
 group: Awards
 ---
 
+<div class="alert alert-warning" role="alert">
+    SICE Annual Conference Poster Presentation Award is canceled since SICE2020 will be held online
+</div>
+
 # {{ page.title }}
 
 ### Description
@@ -16,7 +20,7 @@ Winner of each category: Certificate and trophy
 
 1. SICE Annual Conference International Award (no restriction on age, Sub Category: Basic technology/Application)
 2. SICE Annual Conference Young Author’s Award (under 35 years of age)
-3. SICE Annual Conference Poster Presentation Award (no restriction on age)
+3. <del>SICE Annual Conference Poster Presentation Award (no restriction on age)</del>
 
 ### Application Method:
 
@@ -26,12 +30,12 @@ The presenter of each regular paper should be identified on its final submission
 
 2. **SICE Annual Conference Young Author’s Award (YAA)** <br>
 Any eligible author of both of the regular and position papers can apply for YAA.
-An applicant should apply for the award at the final paper submission via [Papercept](https://controls.papercept.net/conferences/scripts/start.pl#SICE20) (deadline: July 4, 2020).
-**Please click “Submit a contribution to SICE 2019” in aforementioned URL**.
+An applicant should apply for the award at the final paper submission via [Papercept](https://controls.papercept.net/conferences/scripts/start.pl#SICE20) (deadline: <del>July 4, 2020</del> July 20, 2020).
+**Please click “Submit a contribution to SICE 2020” in aforementioned URL**.
 It should be noted that any regular paper applied to YAA is excluded from the candidates of IA.
 
-3. **SICE Annual Conference Poster Presentation Award (PA)** <br>
-Both of the regular and position papers presented at the poster sessions are evaluated as a candidate of PA without explicit application.
+3. <del>**SICE Annual Conference Poster Presentation Award (PA)** </del><br>
+<del>Both of the regular and position papers presented at the poster sessions are evaluated as a candidate of PA without explicit application.</del> 
 
 ### Basis of Judgment
 

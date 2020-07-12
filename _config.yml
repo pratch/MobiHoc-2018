@@ -43,7 +43,8 @@ program:
 #   spreadsheet:
 #     #- "1Mcgwl3mN0KkAWr9DJOVy9Nx-4iF2kqqEOk5yXK00meo"
 #     #- "1Ds4O1SerZeYmdIaWYn_w4qfmpqXpgPlywUvGo9kxqv8"
-#     - "1_qfS2mWeak3oX3wUyxDxmk-DehPY6SjXlVWuPt4Y3Bw"
+#     #- "1_qfS2mWeak3oX3wUyxDxmk-DehPY6SjXlVWuPt4Y3Bw" # SICE2020-tentative
+#     - "1KWSND4nuoIdbTMthwFh9zm3rOTbB5nw_Hr_0n8sHB74" # SICE2020-online
 
 assets:
   caching:

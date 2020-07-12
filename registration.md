@@ -7,6 +7,25 @@ group: Registration
 
 # {{ page.title }}
 
+The registration site and the final submission are open on **July 13, 2020, at 10:00 a.m. JST (8:00 a.m. Thai time)**.
+
+All conference participants are required to register through the online registration site (We only accept online registration for SICE2020). The online registration system is operated by JTB (Japan Tourist Bureau) and can be reached here:
+
+> [https://amarys-jtb.jp/sice2020/](https://amarys-jtb.jp/sice2020/)
+
+After confirming your payment, the organizing committee will email you the information (such as the account and website) that you will need to attend the virtual conference. Please retain the email and inquire number shown in “my page” as you may need them at online registration.
+ 
+- The deadline for early registration is **August 1, 2020**.
+- The deadline for online registration is **23:59 (Japan Standard Time, GMT+9) September 26, 2020**.
+ 
+We will accept the payments until September 26, 2020. However, if you make a payment after September 16, 2020, we may not be able to prepare your account by the opening day of the conference; it will take some time to confirm your payment and prepare your account. If you would like to attend on the opening day, please make a payment by September 16, 2020. 
+ 
+For inquiries regarding registration, please contact:
+
+>　sice2020-register[at]sice.or.jp
+
+(Please replace “[at]” with ＠).
+
 ### Registration Fee
 
 - Full Society member and student member rates are applied to members of the following societies: <br><b>SICE, SICE supporting members, IEEE, ICROS, ISA, CAA, JEMIMA, CIS, ECTI, and ACA.</b>

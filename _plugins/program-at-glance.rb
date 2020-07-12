@@ -50,10 +50,14 @@ module Jekyll
               Jekyll.logger.warn 'Processing ', ws.title
               begin
                 Net::HTTP.start("docs.google.com", :use_ssl => true) do |http|
-                  resp = http.get("/spreadsheets/d/#{sheetKey}/export?format=pdf")
-                  open("#{file}.pdf", "wb") do |out|
-                    out.write(resp.body)
-                  end
+                  
+                  # http.get gets Temporary Redirect error instead of the PDF (not sure how to fix)
+
+                  # resp = http.get("/spreadsheets/d/#{sheetKey}/export?format=pdf")
+                  # Jekyll.logger.warn 'WH', resp
+                  # open("#{file}.pdf", "wb") do |out|
+                  #   out.write(resp.body)
+                  # end
                   system("pdfcrop #{file}.pdf #{file}.pdf")
                   system("convert -trim -density 200 #{file}.pdf #{file}.png")
 

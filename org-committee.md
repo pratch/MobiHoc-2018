@@ -14,7 +14,9 @@ committees:
   - role:  Advisory Committee Chairs
     people: 
       - name:  Tetsuo Sawaragi
-        affiliation:  SICE President (Kyoto U., Japan)
+        affiliation:  2019 SICE President (Kyoto U., Japan)
+      - name:  Akira Ono 
+        affiliation: 2020 SICE President (AIST, Japan)
       - name:  Shinji Hara
         affiliation:  Chuo U., Japan
       - name:  Sinchai Kamolphiwong
@@ -50,19 +52,21 @@ committees:
     people: 
       - name:  Tadashi Ito 
         affiliation:  Gunma U., Japan
+      - name:  Md Abdus Samad Kamal
+        affiliation:  Gunma U., Japan
       - name:  Pollakrit Toonkum 
         affiliation:  RMUTL, Thailand
       - name:  Upady Hatthasin 
         affiliation:  RMUTL, Thailand
   - role:  Registration Co-Chairs
     people: 
-      - name:  Seiji Hashimoto 
-        affiliation:  Gunma U., Japan
+      - name:  Takaaki Hagiwara 
+        affiliation:  Saitama Institute of Technology, Japan
       - name:  Supakit Kawdungta 
         affiliation:  RMUTL, Thailand
   - role:  Tutorial/Workshop Co-Chairs
     people: 
-      - name:  Takeki Ogitsu 
+      - name:  Md Abdus Samad Kamal
         affiliation:  Gunma U., Japan
       - name:  Noriaki Ando 
         affiliation:  AIST, Japan
@@ -96,20 +100,24 @@ committees:
         affiliation:  Saitama Institute of Technology, Japan
       - name:  Patcharanun Yingkayun 
         affiliation:  RMUTL, Thailand
-  - role:  Local Arrangements Co-Chairs 
+  - role:  Online Organizing Committee Co-Chairs
     people: 
-      - name:  Kitchar Chaitanu 
+      - name:  Shinichi Maruyama
+        affiliation:  Gunma U., Japan
+      - name:  Uthen Kamnarn
         affiliation:  RMUTL, Thailand
-      - name:  Surachet Kanprachar 
-        affiliation:  Naresuan U., Thailand
-      - name:  Nobuyuki Kurita 
-        affiliation:  Gunma U., Japan
-      - name:  Kazuhiro Motegi 
-        affiliation:  Gunma U., Japan
-  - role:  Local Arrangements Vice Chairs 
+      - name:  Hiromi Mochiyama
+        affiliation:  Tsukuba U., Japan 
+  - role:  Online Organizing Committee Vice Chairs
     people: 
-      - name:  Krisda Yingkayun 
+      - name:  Nobuaki Nakazawa
+        affiliation:  Gunma U., Japan
+      - name:  Pratch Piyawongwisal
         affiliation:  RMUTL, Thailand
+      - name:  Supakit Kawdungta
+        affiliation:  RMUTL, Thailand
+      - name:  Satoshi Fukuhara
+        affiliation:  Injanet Corp, Japan 
   - role:  Publicity Co-Chairs
     people: 
       - name:  Yoshinori Ando 

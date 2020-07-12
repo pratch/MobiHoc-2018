@@ -4,6 +4,10 @@ title: Student Travel Grant Award
 group: Awards
 ---
 
+<div class="alert alert-warning" role="alert">
+    Student Travel Grant Award (STGA) has been canceled since SICE2020 will be held ONLINE.
+</div>
+
 ## Student Travel Grant Award (STGA)
 
 We (Annual Conference/International Affairs Committee) have set up this grant award in order to encourage students’ contributions from outside of Japan and Thailand, and to support part of their travel expenses. We strongly hope that many students from all over the world apply for this grant award.  

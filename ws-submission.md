@@ -32,7 +32,9 @@ The participation in a workshop or tutorial requires pre-registration according 
 {:.DocTable}
 |Registration Category|Participants of SICE 2020 Conference|Non-participants of SICE 2020 Conference|
 |---|---|---|
-|Full day registration fees|7,000 JPY|14,000 JPY|
-|Half day registration fees|3,000 JPY|6,000 JPY|
+|<del>Full day registration fees</del>|<del>7,000 JPY</del>|<del>14,000 JPY</del>|
+|**<font color="#337ab7">Full day registration fees [ONLINE]</font>**|**<font color="#337ab7">5,000 JPY</font>**|**<font color="#337ab7">10,000 JPY</font>**|
+|<del>Half day registration fees</del>|<del>3,000 JPY</del>|<del>6,000 JPY</del>|
+|**<font color="#337ab7">Half day registration fees [ONLINE]</font>**|**<font color="#337ab7">2,500 JPY</font>**|**<font color="#337ab7">5,000 JPY</font>**|
 
 The revenue from the participation fees will partly be used to cover the cost for the venue and relevant expenses. It is expected that about 50% of the workshop/tutorial revenue could be allocated for providing honorarium to the workshop/tutorial organizers. 
