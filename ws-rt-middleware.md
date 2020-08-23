@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Workshop: RT-Middleware Tutorial for Beginners"
+title: "Tutorial: RT-Middleware Tutorial for Beginners"
 group: Workshops/Tutorials
 
 ---
@@ -14,7 +14,7 @@ group: Workshops/Tutorials
 </style>
 
 {:.workshop_title}
-### Workshop: <br> RT-Middleware Tutorial for Beginners
+### Tutorial: <br> RT-Middleware Tutorial for Beginners
 
 ### Main Organizer
 - Noriaki Ando, AIST, Japan

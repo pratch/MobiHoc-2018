@@ -19,7 +19,6 @@
                onclick="window.location = '{{ url }}'"
                {% endif %}
           >
-
         {% else %}
         <div class="panel {% if item.name == page.title or item.name == page.group %}panel-primary{% else %}panel-default{% endif %}">
           <div class="panel-heading" role="tab" id="heading{{ forloop.index }}"
@@ -49,6 +48,23 @@
             </div>
           </div>
         </div>
+
+        <!-- Sponsors Logos below first menu -->
+        {% if item.name == "Notice about COVID-19" %}
+        <div class="panel panel-default">
+          <table>
+            <tr><td style="text-align:center" colspan="2">Sponsored by</td></tr>
+            <tr>
+              <td style="text-align:center; padding:5px;">
+                <a href="https://www.jemima.or.jp/en/index.html">{% asset logos/jemima-logo.png style="max-width: 100%; height:auto;" %}</a>
+              </td>
+              <td style="text-align:center; padding:3px;">
+                <a href="http://www.azbil.com/ ">{% asset exhibitors/azbil.jpg style="max-width: 100%; height:auto;" %}</a>
+              </td>
+            </tr>
+          </table>
+        </div>
+        {% endif %}
       {% endfor %}
   </nav>
 </aside>

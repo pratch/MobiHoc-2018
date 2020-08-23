@@ -61,11 +61,10 @@ table.DocTable th[class*="col-"] {
     float: none;
 }
 
+// changed from "auto" to prevent weird line breaks in td
 table.DocTable tr td {
-    hyphens: auto;
+    hyphens: none;
 }
-
-
 
 
 .panel-body>table {

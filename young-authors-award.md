@@ -12,6 +12,9 @@ The Society for Measurement and Control Engineers (SICE) aims to be the leading 
 
 We are looking for candidates for SIYA from the speakers of the SICE Annual Conference 2020 (SICE2020). We are looking forward to receiving applications from researchers who meet the application requirements listed below.
 
+### Download Application Forms
+- [Application Form for SICE International Young Authors Award]({% asset "Application form for SICE International Young Authors Award.docx" @path %})
+
 ### Qualification Requirements
 
 Applicants for this award shall meet the following requirements:
@@ -27,21 +30,15 @@ Up to 20 people
 
 ## How to apply 
 
-Prepare the following information and materials, and submit them via [Papercept](https://controls.papercept.net/conferences/scripts/start.pl#SICE20).
-1. Final paper in PDF format
-2. Name of presenter
-3. Applicant’s date of birth and age 
-4. Supervisor’s name and affiliation (if you are a student)
+An applicant should apply for the award at the final paper submission via Papercept.
 
-It should be noted that an applicant is eligible to receive only one award during SICE2020.
-
-Application deadline for SIYA-SICE2020: <del>Wednesday, July 1, 2020</del> **Monday, July 20, 2020**
+Application deadline for SIYA-SICE2020: <del>Monday, July 20, 2020</del> **Saturday, August 1, 2020**
 
 ### Award results
 
-Winners will be announced and awarded at the closing ceremony of the conference. After the closing ceremony, the results will be posted on SICE HP.
+The winners will be announced on SICE 2020 website.
 
-### Application / Contact 
+### Contact 
 
 Please contact the following address for inquiries regarding this award:
 

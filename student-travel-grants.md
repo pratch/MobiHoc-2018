@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Student Travel Grant Award
+title: Student Travel Grant Award [Cancelled]
 group: Awards
 ---
 
@@ -8,9 +8,9 @@ group: Awards
     Student Travel Grant Award (STGA) has been canceled since SICE2020 will be held ONLINE.
 </div>
 
-## Student Travel Grant Award (STGA)
+## Student Travel Grant Award (STGA) [Cancelled]
 
-We (Annual Conference/International Affairs Committee) have set up this grant award in order to encourage students’ contributions from outside of Japan and Thailand, and to support part of their travel expenses. We strongly hope that many students from all over the world apply for this grant award.  
+<del>We (Annual Conference/International Affairs Committee) have set up this grant award in order to encourage students’ contributions from outside of Japan and Thailand, and to support part of their travel expenses. We strongly hope that many students from all over the world apply for this grant award.  </del>
 
 ### Qualification Requirements
 
@@ -34,11 +34,11 @@ Prepare the following information and materials, and submit them via [Papercept]
 
 It should be noted that an applicant is eligible to receive only one award during SICE2020.
 
-Application deadline for STGA-SICE2020: **Wednesday, July 1, 2020**
+<del>Application deadline for STGA-SICE2020: **Wednesday, July 1, 2020**</del>
 
 ### Award results
 
-Award recipients will be selected by our committee based on the paper quality. The finalists will be notified four weeks before the conference. Each finalist is asked to send a copy of student ID at this point. The top three winners will receive the following prizes at the closing ceremony:
+<del>Award recipients will be selected by our committee based on the paper quality. The finalists will be notified four weeks before the conference. Each finalist is asked to send a copy of student ID at this point. The top three winners will receive the following prizes at the closing ceremony:</del>
 
 - 1st winner – a cash prize of JPY50,000 
 - 2nd winner – a cash prize of JPY50,000 
@@ -52,3 +52,4 @@ Please contact the following address for inquiries regarding this award:
 > Replace (at) with @.
 
 SICE Annual Conference/International Affairs Committee
+

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Student Registration Grant Award
+title: Student Registration Grant Award [Cancelled]
 group: Awards
 ---
 
@@ -8,9 +8,9 @@ group: Awards
     Student Registration Grant Award (SRGA) has been canceled since SICE2020 will be held ONLINE.
 </div>
 
-## Student Registration Grant Award (SRGA)
+## Student Registration Grant Award (SRGA) [Cancelled]
 
-We encourage students form the ASEAN countries to apply for this Student Registration Grant Award (SRGA). This grant award will provide financial assistance to cover the registration fee for students who intend to give a presentation at SICE2020. 
+<del>We encourage students form the ASEAN countries to apply for this Student Registration Grant Award (SRGA). This grant award will provide financial assistance to cover the registration fee for students who intend to give a presentation at SICE2020.</del> 
 
 ### Qualification Requirements
 
@@ -35,11 +35,11 @@ Prepare the following information and materials, and submit them via [Papercept]
 
 It should be noted that an applicant is eligible to receive only one award during SICE2020.
 
-Application deadline for SRGA-SICE2020: **Wednesday, July 1, 2020**
+<del>Application deadline for SRGA-SICE2020: **Wednesday, July 1, 2020**</del>
 
 ### Award results
 
-The award committee will judge applications based on the paper quality. Winners will be announced and awarded at the closing ceremony of the conference. At this point, each winner will be requested to submit a copy of his/her student ID. After the closing ceremony, the results will be posted on SICE HP.
+<del>The award committee will judge applications based on the paper quality. Winners will be announced and awarded at the closing ceremony of the conference. At this point, each winner will be requested to submit a copy of his/her student ID. After the closing ceremony, the results will be posted on SICE HP.</del>
 
 ### Application / Contact 
 

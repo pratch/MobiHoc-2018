@@ -13,35 +13,47 @@ committees:
 
   - role:  Advisory Committee Chairs
     people: 
-      - name:  Tetsuo Sawaragi
-        affiliation:  2019 SICE President (Kyoto U., Japan)
       - name:  Akira Ono 
-        affiliation: 2020 SICE President (AIST, Japan)
+        affiliation: President of SICE (AIST, Japan)
       - name:  Shinji Hara
-        affiliation:  Chuo U., Japan
+        affiliation:  Chuo University, Japan
       - name:  Sinchai Kamolphiwong
-        affiliation:  ECTI President (PSU, Thailand) 
+        affiliation:  President of Electrical Engineering / Electronics, Computer, Telecommunications and Information Technology Association (ECTI) (PSU, Thailand) 
+      - name: Jia-Yush Yen
+        affiliation: President of Chinese Automatic Control Society (CACS)
+      - name: Chung Choo Chung
+        affiliation: President of Institute of Control, Robotics and Systems (ICROS)
+      - name: Yiguang Hong
+        affiliation: President of Technical Committee on Control Theory, Chinese Association of Automation (TCCT)
+      - name: Eric Cosman
+        affiliation: President of International Society of Automation (ISA)
+      - name: Anuradha Annaswamy
+        affiliation: President of IEEE Control Systems Society (IEEE CSS)
+      - name: Terry Martin
+        affiliation: President of IEEE  Industrial Electronics Society (IEEE IES)
+      - name: Kiyoshi Ohishi
+        affiliation: Vice President of IEEE  Industrial Electronics Society (IEEE IES)
       - name:  Seensiri Sangajit 
-        affiliation:  RMUTL President (RMUTL, Thailand)
+        affiliation:  President of Rajamangala University of Technology Lanna (RMUTL, Thailand)
       - name:  Bandhit Rojarayanont
-        affiliation: TNI President (TNI, Thailand)
+        affiliation: President of Thai-Nichi Institute of Technology (TNI, Thailand)
       
   - role:  General Co-Chairs
     people: 
       - name:  Kou Yamada 
-        affiliation:  Gunma U., Japan
+        affiliation:  Gunma University, Japan
       - name:  Kosin Chamnongthai 
         affiliation:  KMUTT, Thailand
   - role:  Program Co-Chairs
     people: 
       - name:  Noboru Sakamoto 
-        affiliation:  Nanzan U., Japan
+        affiliation:  Nanzan University, Japan
       - name:  David Banjerdpongchai 
-        affiliation:  Chulalongkorn U., Thailand
+        affiliation:  Chulalongkorn University, Thailand
   - role:  Organizing Committee Co-Chairs
     people: 
       - name:  Shinichi Maruyama 
-        affiliation:  Gunma U., Japan
+        affiliation:  Gunma University, Japan
       - name:  Sungwan Boksuwan 
         affiliation:  KMITL, Thailand
       - name:  Uthen Kamnarn 
@@ -51,9 +63,9 @@ committees:
   - role:  Publication Co-Chairs
     people: 
       - name:  Tadashi Ito 
-        affiliation:  Gunma U., Japan
+        affiliation:  Gunma University, Japan
       - name:  Md Abdus Samad Kamal
-        affiliation:  Gunma U., Japan
+        affiliation:  Gunma University, Japan
       - name:  Pollakrit Toonkum 
         affiliation:  RMUTL, Thailand
       - name:  Upady Hatthasin 
@@ -67,7 +79,7 @@ committees:
   - role:  Tutorial/Workshop Co-Chairs
     people: 
       - name:  Md Abdus Samad Kamal
-        affiliation:  Gunma U., Japan
+        affiliation:  Gunma University, Japan
       - name:  Noriaki Ando 
         affiliation:  AIST, Japan
       - name:  Poonyasiri Boonpeng 
@@ -79,21 +91,21 @@ committees:
       - name: Chanon Warisarn
         affiliation: KMITL, Thailand
       - name: Supaporn Kiattisin
-        affiliation: Mahidol U., Thailand
+        affiliation: Mahidol University, Thailand
       - name: Supakit Kawdungta
         affiliation: RMUTL, Thailand
   - role:  Exhibition and Industrial Relations Co-Chairs
     people: 
       - name:  Takao Yamaguchi 
-        affiliation:  Gunma U., Japan
+        affiliation:  Gunma University, Japan
       - name:  Nobuaki Nakazawa 
-        affiliation:  Gunma U., Japan
+        affiliation:  Gunma University, Japan
       - name:  Nopadon Maneetien 
         affiliation:  RMUTL, Thailand
       - name:  Nuttarut Panananda 
         affiliation:  RMUTL, Thailand
       - name:  Yingrak Auttawaitkul 
-        affiliation:  Maejo U., Thailand
+        affiliation:  Maejo University, Thailand
   - role:  Finance Co-Chairs
     people: 
       - name:  Takaaki Hagiwara 
@@ -103,29 +115,39 @@ committees:
   - role:  Online Organizing Committee Co-Chairs
     people: 
       - name:  Shinichi Maruyama
-        affiliation:  Gunma U., Japan
+        affiliation:  Gunma University, Japan
       - name:  Uthen Kamnarn
         affiliation:  RMUTL, Thailand
       - name:  Hiromi Mochiyama
-        affiliation:  Tsukuba U., Japan 
+        affiliation:  Tsukuba University, Japan 
   - role:  Online Organizing Committee Vice Chairs
     people: 
       - name:  Nobuaki Nakazawa
-        affiliation:  Gunma U., Japan
+        affiliation:  Gunma University, Japan
       - name:  Pratch Piyawongwisal
         affiliation:  RMUTL, Thailand
       - name:  Supakit Kawdungta
         affiliation:  RMUTL, Thailand
       - name:  Satoshi Fukuhara
         affiliation:  Injanet Corp, Japan 
+  - role: Online Organizing Committee Members
+    people:
+      - name: Kazuhiro Motegi
+        affiliation:  Gunma University, Japan
+      - name: Yuki Tanaka
+        affiliation:  Gunma University, Japan
+      - name: Kotaro Hashikura
+        affiliation:  Gunma University, Japan
+      - name: Krisda Yingkayun
+        affiliation:  RMUTL, Thailand
   - role:  Publicity Co-Chairs
     people: 
       - name:  Yoshinori Ando 
-        affiliation:  Gunma U., Japan
+        affiliation:  Gunma University, Japan
       - name:  Iwanori Murakami 
-        affiliation:  Gunma U., Japan
+        affiliation:  Gunma University, Japan
       - name:  Sachie Shiomi 
-        affiliation:  Gunma U., Japan
+        affiliation:  Gunma University, Japan
       - name:  Pratch Piyawongwisal 
         affiliation:  RMUTL, Thailand
       - name:  Pinit Nuangpirom 
@@ -139,7 +161,7 @@ committees:
       - name:  Napasool Wongvanich 
         affiliation:  KMITL, Thailand
       - name:  Nobuaki Nakazawa 
-        affiliation:  Gunma U., Japan
+        affiliation:  Gunma University, Japan
       - name:  Prasert Luekhong 
         affiliation:  RMUTL, Thailand
       - name:  Anan Wongjan
@@ -147,11 +169,11 @@ committees:
   - role:  Secretariats
     people: 
       - name:  Takaaki Suzuki 
-        affiliation:  Gunma U., Japan
+        affiliation:  Gunma University, Japan
       - name:  Kotaro Hashikura 
-        affiliation:  Gunma U., Japan
+        affiliation:  Gunma University, Japan
       - name:  Gou Nishida 
-        affiliation:  Nihon U., Japan
+        affiliation:  Nihon University, Japan
       - name:  Koichi Suzuki 
         affiliation:  SICE, Japan
       - name:  Pikulkaew Tangtisanon 

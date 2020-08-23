@@ -31,7 +31,7 @@ The SICE Annual Conference 2020 (SICE 2020), organized by the Society of Instrum
 
 ## Tentative Conference Program
 
-[{% asset program-at-glance-program-1KWSND4nuoIdbTMthwFh9zm3rOTbB5nw_Hr_0n8sHB74.png %}{: style="max-width: 60%" alt="SICE 2020 - Program-at-Glance"}](program-tentative.html)
+[{% asset program-at-glance-program-1KWSND4nuoIdbTMthwFh9zm3rOTbB5nw_Hr_0n8sHB74.png %}{: style="max-width: 60%" alt="SICE 2020 - Program-at-Glance"}](program.html)
 {: style="text-align: center;"}
 
 ## Technical Co-Sponsors (Tentative) 
@@ -61,9 +61,9 @@ The SICE Annual Conference 2020 (SICE 2020), organized by the Society of Instrum
   <div class="sponsor">
       <a href="">{% asset logos/ieee-transparent-831x1024 %}</a>
   </div>
-  <div class="sponsor">
+  <!-- <div class="sponsor">
       <a href="">{% asset logos/logo_ifac.png %}</a>
-  </div>
+  </div> -->
 </div>
 
 ## In Association With  

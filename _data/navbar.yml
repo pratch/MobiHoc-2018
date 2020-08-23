@@ -26,8 +26,8 @@
 - name: Program & Events
   icon: fa-calendar-alt
   submenu:
-    - name: Tentative Program
-      url: /program-tentative.html
+    - name: Conference Program
+      url: /program.html
     - name: SICE2020 ASEAN Networking Workshop
       url: /ws-asean-network.html
     - name: SICE WEEK 2020
@@ -36,6 +36,10 @@
 - name: Plenary Talks
   url: /plenary.html
   icon: fa-user-tie
+
+- name: Special Panel Session
+  url: /special-panel.html
+  icon: fa-comments
 
 - name: Organized Sessions
   icon: fa-lightbulb
@@ -51,14 +55,15 @@
   url: /special-sessions.html
   icon: fa-asterisk
   
-
 - name: Workshops/Tutorials
   icon: fa-wrench
   submenu:
     - name: Workshops & Tutorials Submission
       url: /ws-submission.html
-    - name: "Workshop: RT-Middleware Tutorial for Beginners"
+    - name: "Tutorial: RT-Middleware Tutorial for Beginners"
       url: /ws-rt-middleware.html
+    - name: "Workshop: Emerging Control of Vehicular Traffic for Improving Sustainability and Energy Efficiency"
+      url: /ws-emerging-control.html
 
 - name: Exhibitions
   url: /exhibition.html
@@ -67,9 +72,9 @@
 - name: Awards
   icon: fa-trophy
   submenu:
-    - name: Student Travel Grant Award
+    - name: Student Travel Grant Award [Cancelled]
       url: /student-travel-grants.html
-    - name: Student Registration Grant Award
+    - name: Student Registration Grant Award [Cancelled]
       url: /student-registration-grants.html
     - name: SICE International Young Authors Award
       url: /young-authors-award.html

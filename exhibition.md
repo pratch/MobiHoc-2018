@@ -80,4 +80,14 @@ Exhibitors will be able to add one or more optional packages below according to 
 
 ### Exhibitors List
 
-TBD
+Promotional videos and chat boxes for Q & A will be open for one week, from 24th to 30th September. Interactive Q & A for Exhibitors via the chart box will be held during the core times that start at 13:00 and end at 14:00 (Thailand time, GMT+7) on 24th and 25th September.
+
+
+[Japan Electric Measuring Instruments Manufacturers' Association (JEMIMA)](https://www.jemima.or.jp/en/index.html)
+
+{% asset logos/jemima-logo.png width="140px" %}
+
+[Azbil Corporation](https://www.azbil.com/)
+
+{% asset exhibitors/azbil.jpg width="120px" %}
+<br><br>

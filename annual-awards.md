@@ -30,9 +30,9 @@ The presenter of each regular paper should be identified on its final submission
 
 2. **SICE Annual Conference Young Author’s Award (YAA)** <br>
 Any eligible author of both of the regular and position papers can apply for YAA.
-An applicant should apply for the award at the final paper submission via [Papercept](https://controls.papercept.net/conferences/scripts/start.pl#SICE20) (deadline: <del>July 4, 2020</del> July 20, 2020).
+An applicant should fill out the [Application Form for SICE Annual Conference Young Author’s Award]({% asset "Application form for SICE Annual Conference Young Author’s Award.docx" @path %}) and apply for the award at the final paper submission via [Papercept](https://controls.papercept.net/conferences/scripts/start.pl#SICE20) (deadline: <del>Monday, July 20, 2020</del> **Saturday, August 1, 2020**).
 **Please click “Submit a contribution to SICE 2020” in aforementioned URL**.
-It should be noted that any regular paper applied to YAA is excluded from the candidates of IA.
+It should be noted that any regular paper applied to YAA is excluded from the candidates of IA. 
 
 3. <del>**SICE Annual Conference Poster Presentation Award (PA)** </del><br>
 <del>Both of the regular and position papers presented at the poster sessions are evaluated as a candidate of PA without explicit application.</del> 
@@ -45,7 +45,7 @@ It should be noted that any regular paper applied to YAA is excluded from the ca
 
 ### Presentation
 
-The winners will be awarded at the closing ceremony, and the prize consists of a certificate and a trophy.
+The winners will be announced on SICE 2020 website. The prize consists of a certificate and a trophy. All other finalists receive certifications.
 All other finalists receive certifications.
 
 **SICE Awards Committee**
