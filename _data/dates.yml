@@ -48,6 +48,12 @@ main-earlyregistration:
   date: August 1, 2020
   important: true
 
+main-videosubmission:
+  track: main
+  info: Video Presentation Submission Deadline
+  date: September 9, 2020
+  important: true
+
 # main-registration:
 #   track: main
 #   info: Registration Deadline (11:59pm PST)

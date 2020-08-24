@@ -13,10 +13,10 @@
       url: /cfp.html
     - name: Paper Submission
       url: /submission.html
-    - name: Video Submission
-      url: /video-submission.html
-    - name: Instructions for Presentation
+    - name: Instructions for Online Presentation
       url: /instruction-presentation.html
+    - name: Video Presentation Submission
+      url: /video-submission.html
 
 - name: Registration
   url: /registration.html

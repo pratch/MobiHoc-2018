@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Video Submission
+title: Video Presentation Submission 
 group: Author Information
 
 ---
 
-# {{ page.title }}
+## {{ page.title }}
 
 ### 1. No Show Policy
 No-show papers are defined as papers submitted by authors who subsequently did not upload the video presentation. No-shows will not be available on IEEE Xplore or other public access IEEE forums. No refund of the paid fees can be claimed by the no-show author.
