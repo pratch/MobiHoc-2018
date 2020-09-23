@@ -20,7 +20,30 @@ Winner of each category: Certificate and trophy
 
 1. SICE Annual Conference International Award (no restriction on age, Sub Category: Basic technology/Application)
 2. SICE Annual Conference Young Author’s Award (under 35 years of age)
-3. <del>SICE Annual Conference Poster Presentation Award (no restriction on age)</del>
+3. <del>SICE Annual Conference Poster Presentation Award (no restriction on age)</del> 
+
+### Finalists of SICE Annual Conference International Award <img src="new.gif">
+
+{:.DocTable}
+| Paper number | Schedule code | Nominee         | Affiliation                                       | Title                                                                                                                                    |
+|--------------|---------------|-----------------|---------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
+| 121          | ThL3P.1       | Koike, Masakazu | Tokyo University of Marine Science and Technology | Monotonicity Analysis for Optimal Scheduling of Storage Batteries and Power Generators <br>- Considering Ramp Limit of Thermal Power Plant - |
+| 176          | FrBT17.4      | Li, Jiarui      | Kyoto University                                  | Data Dimensionality Reduction by Introducing Structural Equation Modeling to Machine Learning Problems                                   |
+| 201          | SaBT19.5      | Kikuchi, Hiroya | Hiroshima University                              | Robust Nash Strategy for Uncertain SIR Time-Delay Model                                                                                  |
+| 270          | SaAT20.1      | Chen, Weiya     | Kyoto University                                  | Driver's Mental Workload Measurement Concerning Cognitive Channels                                                                       |
+| 428          | SaAT18.7      | Yamauchi, Junya | The University of Tokyo                           | Visual Pursuit Control with Target Motion Learning Via Gaussian Process                                                                  |
+| 492          | FrAT19.4      | Itami, Teturo   | Robotics Industry Development Council             | Measuring Weighting Factor of Eigenstates in Quantum Superposition by Classical Mechanical 'quantum' Computer                            |
+
+### Finalists of SICE Annual Conference Young Author’s Award <img src="new.gif">
+
+{:.DocTable}
+| Paper number | Schedule code | Nominee         | Affiliation                                       | Title                                                                                                                                                   |
+|--------------|---------------|-----------------|---------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 166          | SaAT18.5      | Sasaki, Yasuo   | Nagoya University              | Design of Observers for the Flow around a Cylinder using Machine Learning Techniques                                                                    |
+| 189          | FrAT20.1      | Niwa, Takahiro  | Toyota Central R&D Labs., Inc  | Bio-Inspired Cooperative Control Using a Nonlinear Oscillator without Direct Communication among Agents                                                 |
+| 191          | FrAT16.5      | Tamba, Masaaki  | Kyushu Institute of Technology | Renewable Implementation of Rational Biomolecular Systems Design                                                                                        |
+| 312          | FrAT16.3      | Deguchi, Hideki | Toyota Central R&D Labs        | Active Visual Localization Using Predicted Images                                                                                                       |
+| 524          | SaBT16.6      | Tagawa, Yusaku  | The University of Tokyo        | Experimental Study of Estimation of Coefficient of Static Friction with One-Axis Force Sensor by Observing Peripheral Local Slips on Elastic Hemisphere |
 
 ### Application Method:
 

@@ -13,6 +13,12 @@ group: Workshops/Tutorials
     }
 </style>
 
+<div class="panel panel-default" style="padding:10px;">
+If you would like to attend the Workshop or the Tutorial, please complete your application and payment by <b>15:00 (Thailand Time) on Thursday 17th September 2020</b>. You can make your application and payment via the online registration system operated by JTB (Japan Tourist Bureau):
+<a href="https://amarys-jtb.jp/sice2020/">https://amarys-jtb.jp/sice2020/</a>.
+Within a few days after completing the application procedure, you will receive a survey email that will ask you to confirm which one (the Workshop or the Tutorial) you would like to attend.
+</div>
+
 {:.workshop_title}
 ### Workshop: <br> Emerging Control of Vehicular Traffic for Improving Sustainability and Energy Efficiency
 

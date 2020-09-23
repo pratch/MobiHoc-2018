@@ -5,6 +5,14 @@ group: Registration
 
 ---
 
+<div class="panel panel-default" style="padding:10px;">
+If you would like to attend the Workshop or the Tutorial, please complete your application and payment by <b>15:00 (Thailand Time) on Thursday 17th September 2020</b>. You can make your application and payment via the online registration system operated by JTB (Japan Tourist Bureau):
+<a href="https://amarys-jtb.jp/sice2020/">https://amarys-jtb.jp/sice2020/</a>.
+Within a few days after completing the application procedure, you will receive a survey email that will ask you to confirm which one (the Workshop or the Tutorial) you would like to attend.
+
+<p style="color:red; margin:0px;">The Tutorial is full and we have stopped recruiting participants for the Tutorial. As for the Workshop, we have still some places available and look forward to your participation.</p>
+</div>
+
 # {{ page.title }}
 
 The registration site and the final submission are open on **July 13, 2020, at 10:00 a.m. JST (8:00 a.m. Thai time)**.
@@ -19,6 +27,8 @@ After confirming your payment, the organizing committee will email you the infor
 - The deadline for online registration is **23:59 (Japan Standard Time, GMT+9) September 26, 2020**.
  
 We will accept the payments until September 26, 2020. However, if you make a payment after September 16, 2020, we may not be able to prepare your account by the opening day of the conference; it will take some time to confirm your payment and prepare your account. If you would like to attend on the opening day, please make a payment by September 16, 2020. 
+
+The participants will be able to download their receipts on the conference days from the SICE2020 online conference site [https://sice2020-online.sice.jp](https://sice2020-online.sice.jp)
  
 For inquiries regarding registration, please contact:
 
@@ -67,6 +77,8 @@ For inquiries regarding registration, please contact:
 ### Tutorial and Workshops Registration Fee
 
 The participation in a workshop or tutorial requires pre-registration according to the following registration fees depending on whether the registrant is a participant of SICE 2020 Conference.
+
+<p style="color:red">The Tutorial is full and we have stopped recruiting participants for the Tutorial. As for the Workshop, we have still some places available and look forward to your participation.</p>
 
 {:.DocTable}
 |Registration Category|Participants of SICE 2020 Conference|Non-participants of SICE 2020 Conference|

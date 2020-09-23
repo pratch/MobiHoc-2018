@@ -6,6 +6,10 @@
   url: /
   icon: fa-home
 
+- name: Participant Information 
+  url: /participant-info.html
+  icon: fa-info-circle
+
 - name: Author Information
   icon: fa-bullhorn
   submenu:

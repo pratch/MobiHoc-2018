@@ -90,4 +90,9 @@ Promotional videos and chat boxes for Q & A will be open for one week, from 24th
 [Azbil Corporation](https://www.azbil.com/)
 
 {% asset exhibitors/azbil.jpg width="120px" %}
+
+[Thailand Convention and Exhibition Bureau (TCEB)](https://www.businesseventsthailand.com/en)
+
+{% asset logos/tceb.jpg width="120px" %}
+
 <br><br>

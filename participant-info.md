@@ -1,17 +1,41 @@
 ---
 layout: default
-title: Instructions for Online Presentation
-group: Author Information
+title: Participant Information 
+group: Participant Information
 
 ---
-
-## {{ page.title }}
 
 <style>
     table.timetable td {
         border: 1px solid black;
     }
 </style>
+
+## Test Webinar Information
+
+We have prepared a test webinar for you to check in advance whether you can join conference webinars (real-time sessions) without any problems. The details (address, ID, and password) of the test webinar are given below. You can join the test webinar by following the instructions given in this guideline:
+
+- [Guidelines for participating in real-time organizing sessions of SICE2020]({% asset OS_attendee_manual_en.pdf @path %})
+
+The test webinar can be accessed via the following link: 
+- [https://us02web.zoom.us/w/87171756282](https://us02web.zoom.us/w/87171756282)
+- **Webinar ID:** 871 7175 6282
+- **Webinar password:** 257025
+
+The test webinar will be available from:
+- **In JST time:** 09:00 on 18th September to 5:00 on 20th September 
+- **In TST time:** 07:00 on 18th September to 03:00 on 20th September
+- **In UTC time:** 00:00 on 18th September to 20:00 on 19th September
+
+If you successfully join the test webinar, you will see a Smiley face spinning and hear some music; this indicates that the animation and audio functions are working properly. However, if you see a still image of a Smiley face and hear some music, the host PC may have some problems; then, please try again (several hours) later. If you see a message saying that registration approval is pending, then the email address you entered might be different from the one you registered for SICE2020; please check your email address, and try again with your registered email address. 
+
+If you are unable to join the real-time sessions (the Zoom webinars) with the email address that you registered for SICE2020, due to company policy or some other reasons, you can register an alternative email address from the following site: [https://forms.gle/5ZjhXjaDASPgJZEE9](https://forms.gle/5ZjhXjaDASPgJZEE9).
+
+By entering your registered and alternative email addresses on the above site by 00:00 (UTC) on 18th September 2020, you can join the webinars with the alternative email address. Please note that the alternative email address is only to join the webinars, and please use the email address that you registered for SICE2020 to access the online conference site. After registering an alternative email address, you may receive some emails about cancellations of webinars at the registered email address. Please ignore the emails.
+
+If you have any questions, please let us know by email at **ytanaka [at] gunma-u.ac.jp**.
+
+## Presentation Guidelines for SICE2020
 
 ### Overview
 

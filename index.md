@@ -12,7 +12,8 @@ group: Home
 <sup>[Photos provided by Tourism Authority of Thailand (TAT), Osaka Office](https://portal.tourismthailand.org/#)</sup>
 {: .center}
 
-The SICE Annual Conference 2020 (SICE 2020), organized by the Society of Instrument and Control Engineers (SICE) and the Electrical Engineering/ Electronics, Computer, Telecommunications and Information Technology (ECTI) Association, will be held on September 23-26, 2020, in Chiang Mai, THAILAND. The SICE Annual Conference 2020 is an international conference covering a broad range of fields from measurement and control to system analysis and design, from theory to application, and from software to hardware. Also included are topics in computer and information technology, network and communications, electronics, and digital signal processing. The technical program of SICE 2020 will consist of plenary and invited talks, tutorial courses, and workshops, as well as oral and interactive sessions. 
+The SICE Annual Conference 2020 (SICE 2020), organized by the Society of Instrument and Control Engineers (SICE) and the Electrical Engineering/ Electronics, Computer, Telecommunications and Information Technology (ECTI) Association, will be held on September 23-26, 2020, in Chiang Mai, THAILAND. The SICE Annual Conference 2020 is an international conference covering a broad range of fields from measurement and control to system analysis and design, from theory to application, and from software to hardware. Also included are topics in computer and information technology, network and communications, electronics, and digital signal processing. The technical program of SICE 2020 will consist of plenary and invited talks, tutorial courses, and workshops, as well as oral and interactive sessions. This conference is sponsored by [Japan Electric Measuring Instruments Manufacturers' Association (JEMIMA)](https://www.jemima.or.jp/en/index.html), [Azbil Corporation](http://www.azbil.com/), and [Thailand Convention and Exhibition Bureau (TCEB)](https://www.businesseventsthailand.com/en).
+              
 
 <br>
 
@@ -61,9 +62,9 @@ The SICE Annual Conference 2020 (SICE 2020), organized by the Society of Instrum
   <div class="sponsor">
       <a href="">{% asset logos/ieee-transparent-831x1024 %}</a>
   </div>
-  <!-- <div class="sponsor">
-      <a href="">{% asset logos/logo_ifac.png %}</a>
-  </div> -->
+  <div class="sponsor">
+      <a href="">{% asset logos/tceb.png %}</a>
+  </div> 
 </div>
 
 ## In Association With  
