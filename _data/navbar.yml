@@ -76,14 +76,16 @@
 - name: Awards
   icon: fa-trophy
   submenu:
+    - name: SICE Annual Conference Awards
+      url: /annual-awards.html
+    - name: SICE International Young Authors Award
+      url: /young-authors-award.html
     - name: Student Travel Grant Award [Cancelled]
       url: /student-travel-grants.html
     - name: Student Registration Grant Award [Cancelled]
       url: /student-registration-grants.html
-    - name: SICE International Young Authors Award
-      url: /young-authors-award.html
-    - name: SICE Annual Conference Awards
-      url: /annual-awards.html
+    
+    
 
 - name: Local Information
   icon: fa-map

@@ -19,7 +19,7 @@ group: Author Information
     
 2. Each presentation will be provided with a chat box for Question and Answer (Q&A). (You can upload image files or PDF files from the chat box to display equations or other necessary materials.) The chat box will also be open for one week starting **Thursday 24th September**, after the presentation videos have been posted. Questions and answers can be posted during the week and also during the interactive Q&A sessions (see 3 for details).
 
-3. Interactive Q&A sessions will be held in the **morning of 25th or 26th September (Thailand time, GMT+7)**. The presentations, except live (real-time) presentations, are divided into four groups with different core times for live Q&A, as shown in the table below. During the one-hour core time, the presenters are requested to monitor their own chat box and answer questions. 
+3. Interactive Q&A sessions will be held in the **morning of 25th or 26th September (Thailand time, GMT+7)**. The presentations, except live (real-time) presentations, are divided into four groups with different core times for live Q&A, as shown in the table below. During the one-hour core time, the presenters are requested to monitor their own chat box and answer questions. You can find your assigned group ID (e.g., FrB, SaA) in the [Conference Program](https://controls.papercept.net/conferences/conferences/SICE20/program/SICE20_AuthorIndexWeb.html).
     
     {:.DocTable}
     <table class="timetable" style="border-collapse: collapse;">
