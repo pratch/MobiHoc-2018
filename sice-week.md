@@ -17,7 +17,7 @@ group: Program & Events
 {% asset robot3.png width="200 px" %}
 {% asset robot4.png width="200 px" %}
 
-SICE WEEK is an open event to introduce SICE to the general public, often held in parallel to the SICE annual conference in Japan. This year, SICE WEEK 2020 will be held on the campus of Rajamangala University of Technology Lanna (Chiang Mai, Thailand). **The theme of this year's event is robot programming** aimed at students from local schools who are interested in robotics.  
+SICE WEEK is an open event to introduce SICE to the general public, often held in parallel to the SICE annual conference in Japan. This year, SICE WEEK 2020 will be held on the campus of Rajamangala University of Technology Lanna (Chiang Mai, Thailand). **The theme of this year's event is robot programming** aimed at students from local schools who are interested in robotics. Students are welcome to participate in the event <u>free of charge</u>. 
 
 Robotics is a wonderful platform for students to learn 21st century skills. Robotic programming requires creative thinking and problem solving skills. And due to the cross-disciplinary nature of the task, student participants will get to apply their knowledge of science, technology, engineering, math, and computer programming. Aside from technical skills, this activity also cultivates teamwork and communication skills as students will work together in teams to come up with their own ideas and solutions. 
 
@@ -38,6 +38,7 @@ At this event, student participants will take part in a series of workshops held
 - **Participants:** Students in 2 age groups:
   - Junior (13 - 15yo)
   - Senior (16 - 19yo)
+- **Fee:** None. This is a free event.
 
 ### Tentative Program
 

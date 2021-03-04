@@ -12,6 +12,13 @@ The Society for Measurement and Control Engineers (SICE) aims to be the leading 
 
 We are looking for candidates for SIYA from the speakers of the SICE Annual Conference 2020 (SICE2020). We are looking forward to receiving applications from researchers who meet the application requirements listed below.
 
+### Winner of SICE International Young Authors Award <img src="new.gif">
+
+{:.DocTable}
+| Winner | Paper number | Schedule code | Nominee         | Affiliation                                       | Title                                                                                                                                    |
+|----|---------------|-----------------|---------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
+|<img src="rose.jpg" width="30px">| **190**          | **SaAT16.5**      | **Wada, Sota** | **Tokyo City University** | **Model Predictive Formation Control for Quadcopters with Towing Cables** |
+
 ### Download Application Forms
 - [Application Form for SICE International Young Authors Award]({% asset "Application form for SICE International Young Authors Award.docx" @path %})
 
